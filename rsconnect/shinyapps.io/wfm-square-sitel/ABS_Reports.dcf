@@ -1,0 +1,13 @@
+name: ABS_Reports
+title: ABS_Reports
+username:
+account: wfm-square-sitel
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5608787
+bundleId: 5557731
+url: https://wfm-square-sitel.shinyapps.io/ABS_Reports/
+when: 1644343023.51621
+lastSyncTime: 1644343023.51621
+asMultiple: FALSE
+asStatic: FALSE

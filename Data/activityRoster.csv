@@ -1,0 +1,63 @@
+Activity,Paid_or_Not,OT_NOT,Billable_NOT,Holiday_NOT,Absence_NOT
+ACW,YES,NOT,YES,Not,NOT
+Break,YES,NOT,NOT,NOT,NOT
+Connecting,YES,NOT,YES,Not,NOT
+Dialing,YES,NOT,YES,Not,NOT
+Dialing_Out,YES,NOT,YES,Not,NOT
+Lunch,YES,NOT,NOT,NOT,NOT
+Non-Core Work,YES,NOT,YES,Not,NOT
+On_Contact,YES,NOT,YES,Not,NOT
+On_Hold,YES,NOT,YES,Not,NOT
+Open,YES,NOT,YES,Not,NOT
+Out_Call,YES,NOT,YES,Not,NOT
+Seller_Extra_ACW,YES,NOT,YES,Not,NOT
+Login,YES,NOT,NOT,NOT,NOT
+Meeting,YES,NOT,YES,Not,NOT
+Out_Call_Ended,YES,NOT,YES,Not,NOT
+Error,YES,NOT,NOT,NOT,NOT
+Incoming,YES,NOT,YES,Not,NOT
+Training,YES,NOT,YES,Not,NOT
+Technical Issues,YES,NOT,YES,Not,NOT
+Email,YES,NOT,YES,Not,NOT
+Missed,YES,NOT,YES,Not,NOT
+Seller Messaging,YES,NOT,YES,Not,NOT
+Pending,YES,NOT,YES,Not,NOT
+Busy,YES,NOT,YES,Not,NOT
+Lunch PAID,YES,NOT,NOT,NOT,NOT
+Time Off-Partner,YES,NOT,NOT,YES,NOT
+Unplanned Absence,NOT,NOT,NOT,NOT,YES
+Sidekicking,YES,NOT,YES,Not,NOT
+Sick Time,YES,NOT,NOT,NOT,YES
+Team Meeting,YES,NOT,YES,Not,NOT
+One-on-One,YES,NOT,YES,Not,NOT
+Developmental Time,YES,NOT,YES,Not,NOT
+Employee Engagement,YES,NOT,YES,Not,NOT
+Unplanned Training,YES,NOT,YES,Not,NOT
+Overtime,YES,YES,YES,Not,NOT
+Unplanned One-on-One,YES,NOT,YES,Not,NOT
+Unplanned DevelopmentalTime,YES,NOT,YES,Not,NOT
+Training (Mindtickle),YES,NOT,YES,Not,NOT
+Technical Issues - Amazon Connect,YES,NOT,YES,Not,NOT
+Tardy,NOT,NOT,NOT,NOT,YES
+Leave of Absence,NOT,NOT,NOT,NOT,NOT
+Attrition,NOT,NOT,NOT,NOT,NOT
+Shadowing,YES,NOT,YES,Not,NOT
+Email OT,YES,YES,YES,Not,NOT
+Other: Non-Core Work,YES,NOT,YES,Not,NOT
+Open OT,YES,YES,YES,Not,NOT
+Unplanned Meeting,YES,NOT,NOT,NOT,NOT
+Unplanned Non-Core Work,YES,NOT,NOT,NOT,NOT
+Unplanned Shadowing,YES,NOT,NOT,NOT,NOT
+New Hire Training,YES,NOT,YES,Not,NOT
+Technical Issues - Hardware/IT Support,YES,NOT,NOT,NOT,NOT
+Holiday,YES,NOT,NOT,YES,NOT
+Unplanned Sidekicking,YES,NOT,NOT,NOT,NOT
+Technical Issues - Internet/Power Outage,YES,NOT,NOT,NOT,NOT
+Misc Meeting,YES,NOT,NOT,NOT,NOT
+Unplanned Email,YES,NOT,NOT,NOT,NOT
+Technical Issues - Internet/Power Outage,YES,NOT,NOT,NOT,NOT
+New Hire Dev Time,YES,NOT,YES,Not,NOT
+Overtime Break,YES,YES,NOT,NOT,NOT
+Lunch OT,YES,YES,NOT,NOT,NOT
+Unplanned Manager Escalation,YES,NOT,NOT,NOT,NOT
+Technical Issues - Square Software,YES,NOT,YES,Not,NOT

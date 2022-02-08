@@ -1,0 +1,2459 @@
+XX,ID,name,Column1,Start time,End time,shift length,Lunch start,Lunch End,Date
+D W M,22783,"Ahokava, Etilina",,11:00 AM,7:00 PM,8:00,--:--,--:--,44592
+D W M,22784,"Ali, Shareen",,11:00 AM,7:00 PM,8:00,1:00 PM,1:15 PM,44592
+D W M,22785,"Pilia, Frances",,11:00 AM,7:00 PM,8:00,12:30 PM,12:45 PM,44592
+D W M,22787,"Tepana, Renee",,11:00 AM,7:00 PM,8:00,12:15 PM,12:30 PM,44592
+D W M,22788,"Byrne, Jedda",,11:00 AM,7:00 PM,8:00,12:15 PM,12:30 PM,44592
+D W M,22794,"de Thierry, Christine",,11:00 AM,7:00 PM,8:00,12:45 PM,1:00 PM,44592
+D W M,22795,"Prasad, Jacqueline",,11:00 AM,7:00 PM,8:00,2:00 PM,2:15 PM,44592
+D W M,25139,"Clementine, Sinclair",,11:00 AM,7:00 PM,8:00,12:45 PM,1:00 PM,44592
+D W M,25140,"Annah, Clune",,11:00 AM,7:00 PM,8:00,12:45 PM,1:00 PM,44592
+D W M,25142,"Lorraine, Hoani",,11:00 AM,7:00 PM,8:00,12:30 PM,12:45 PM,44592
+D W M,25143,"Farisha, Khan",,11:00 AM,7:00 PM,8:00,1:00 PM,1:15 PM,44592
+D W M,25144,"Anne, Seumanutafa",,11:00 AM,7:00 PM,8:00,12:30 PM,12:45 PM,44592
+D W M,25146,"Sheetal, Kumar",,11:00 AM,7:00 PM,8:00,12:45 PM,1:00 PM,44592
+D W M,27919,"McFall, Peter",,--:--,--:--,--:--,--:--,--:--,44592
+D W M,27920,"Messina, Balin",,--:--,--:--,--:--,--:--,--:--,44592
+D W M,27921,"Kalekale, Seini",,--:--,--:--,--:--,--:--,--:--,44592
+D W M,27922,"Bowers, Luke",,--:--,--:--,--:--,--:--,--:--,44592
+D W M,27923,"Chavan, Varsha",,--:--,--:--,--:--,--:--,--:--,44592
+D W M,27925,"Daniels, Tiffney",,--:--,--:--,--:--,--:--,--:--,44592
+D W M,27926,"Leauanae, Henrietta",,--:--,--:--,--:--,--:--,--:--,44592
+D W M,27927,"Panui, Leiah",,--:--,--:--,--:--,--:--,--:--,44592
+D W M,27928,"Stormont, Cesaly",,--:--,--:--,--:--,--:--,--:--,44592
+D W M,22783,"Ahokava, Etilina",,11:00 AM,7:00 PM,8:00,12:15 PM,12:30 PM,44593
+D W M,22784,"Ali, Shareen",,11:00 AM,7:00 PM,8:00,1:00 PM,1:15 PM,44593
+D W M,22785,"Pilia, Frances",,11:00 AM,7:00 PM,8:00,12:30 PM,12:45 PM,44593
+D W M,22787,"Tepana, Renee",,11:00 AM,7:00 PM,8:00,12:15 PM,12:30 PM,44593
+D W M,22788,"Byrne, Jedda",,11:00 AM,7:00 PM,8:00,12:15 PM,12:30 PM,44593
+D W M,22794,"de Thierry, Christine",,11:00 AM,7:00 PM,8:00,12:45 PM,1:00 PM,44593
+D W M,22795,"Prasad, Jacqueline",,11:00 AM,7:00 PM,8:00,1:00 PM,1:15 PM,44593
+D W M,25139,"Clementine, Sinclair",,11:00 AM,7:00 PM,8:00,12:45 PM,1:00 PM,44593
+D W M,25140,"Annah, Clune",,11:00 AM,7:00 PM,8:00,12:45 PM,1:00 PM,44593
+D W M,25142,"Lorraine, Hoani",,11:00 AM,7:00 PM,8:00,12:30 PM,12:45 PM,44593
+D W M,25143,"Farisha, Khan",,11:00 AM,7:00 PM,8:00,1:00 PM,1:15 PM,44593
+D W M,25144,"Anne, Seumanutafa",,11:00 AM,7:00 PM,8:00,12:30 PM,12:45 PM,44593
+D W M,25146,"Sheetal, Kumar",,11:00 AM,7:00 PM,8:00,--:--,--:--,44593
+D W M,27919,"McFall, Peter",,--:--,--:--,--:--,--:--,--:--,44593
+D W M,27920,"Messina, Balin",,--:--,--:--,--:--,--:--,--:--,44593
+D W M,27921,"Kalekale, Seini",,--:--,--:--,--:--,--:--,--:--,44593
+D W M,27922,"Bowers, Luke",,--:--,--:--,--:--,--:--,--:--,44593
+D W M,27923,"Chavan, Varsha",,--:--,--:--,--:--,--:--,--:--,44593
+D W M,27925,"Daniels, Tiffney",,--:--,--:--,--:--,--:--,--:--,44593
+D W M,27926,"Leauanae, Henrietta",,--:--,--:--,--:--,--:--,--:--,44593
+D W M,27927,"Panui, Leiah",,--:--,--:--,--:--,--:--,--:--,44593
+D W M,27928,"Stormont, Cesaly",,--:--,--:--,--:--,--:--,--:--,44593
+D W M,22783,"Ahokava, Etilina",,11:00 AM,7:00 PM,8:00,12:15 PM,12:30 PM,44594
+D W M,22784,"Ali, Shareen",,11:00 AM,7:00 PM,8:00,1:00 PM,1:15 PM,44594
+D W M,22785,"Pilia, Frances",,11:00 AM,7:00 PM,8:00,12:30 PM,12:45 PM,44594
+D W M,22787,"Tepana, Renee",,11:00 AM,7:00 PM,8:00,12:15 PM,12:30 PM,44594
+D W M,22788,"Byrne, Jedda",,11:00 AM,7:00 PM,8:00,12:15 PM,12:30 PM,44594
+D W M,22794,"de Thierry, Christine",,11:00 AM,7:00 PM,8:00,12:45 PM,1:00 PM,44594
+D W M,22795,"Prasad, Jacqueline",,11:00 AM,7:00 PM,8:00,1:00 PM,1:15 PM,44594
+D W M,25139,"Clementine, Sinclair",,11:00 AM,7:00 PM,8:00,12:45 PM,1:00 PM,44594
+D W M,25140,"Annah, Clune",,11:00 AM,7:00 PM,8:00,12:45 PM,1:00 PM,44594
+D W M,25142,"Lorraine, Hoani",,11:00 AM,7:00 PM,8:00,12:30 PM,12:45 PM,44594
+D W M,25143,"Farisha, Khan",,11:00 AM,7:00 PM,8:00,1:00 PM,1:15 PM,44594
+D W M,25144,"Anne, Seumanutafa",,11:00 AM,7:00 PM,8:00,12:30 PM,12:45 PM,44594
+D W M,25146,"Sheetal, Kumar",,11:00 AM,7:00 PM,8:00,--:--,--:--,44594
+D W M,27919,"McFall, Peter",,--:--,--:--,--:--,--:--,--:--,44594
+D W M,27920,"Messina, Balin",,--:--,--:--,--:--,--:--,--:--,44594
+D W M,27921,"Kalekale, Seini",,--:--,--:--,--:--,--:--,--:--,44594
+D W M,27922,"Bowers, Luke",,--:--,--:--,--:--,--:--,--:--,44594
+D W M,27923,"Chavan, Varsha",,--:--,--:--,--:--,--:--,--:--,44594
+D W M,27925,"Daniels, Tiffney",,--:--,--:--,--:--,--:--,--:--,44594
+D W M,27926,"Leauanae, Henrietta",,--:--,--:--,--:--,--:--,--:--,44594
+D W M,27927,"Panui, Leiah",,--:--,--:--,--:--,--:--,--:--,44594
+D W M,27928,"Stormont, Cesaly",,--:--,--:--,--:--,--:--,--:--,44594
+D W M,22783,"Ahokava, Etilina",,11:00 AM,7:00 PM,8:00,12:15 PM,12:30 PM,44595
+D W M,22784,"Ali, Shareen",,11:00 AM,7:00 PM,8:00,12:45 PM,1:00 PM,44595
+D W M,22785,"Pilia, Frances",,11:00 AM,7:00 PM,8:00,5:00 PM,5:15 PM,44595
+D W M,22787,"Tepana, Renee",,11:00 AM,7:00 PM,8:00,12:15 PM,12:30 PM,44595
+D W M,22788,"Byrne, Jedda",,11:00 AM,7:00 PM,8:00,12:15 PM,12:30 PM,44595
+D W M,22794,"de Thierry, Christine",,11:00 AM,7:00 PM,8:00,12:45 PM,1:00 PM,44595
+D W M,22795,"Prasad, Jacqueline",,11:00 AM,7:00 PM,8:00,5:45 PM,6:00 PM,44595
+D W M,25139,"Clementine, Sinclair",,11:00 AM,7:00 PM,8:00,12:45 PM,1:00 PM,44595
+D W M,25140,"Annah, Clune",,11:00 AM,7:00 PM,8:00,12:45 PM,1:00 PM,44595
+D W M,25142,"Lorraine, Hoani",,11:00 AM,7:00 PM,8:00,12:30 PM,12:45 PM,44595
+D W M,25143,"Farisha, Khan",,11:00 AM,7:00 PM,8:00,1:00 PM,1:15 PM,44595
+D W M,25144,"Anne, Seumanutafa",,11:00 AM,7:00 PM,8:00,12:30 PM,12:45 PM,44595
+D W M,25146,"Sheetal, Kumar",,11:00 AM,7:00 PM,8:00,12:45 PM,1:00 PM,44595
+D W M,27919,"McFall, Peter",,--:--,--:--,--:--,--:--,--:--,44595
+D W M,27920,"Messina, Balin",,--:--,--:--,--:--,--:--,--:--,44595
+D W M,27921,"Kalekale, Seini",,--:--,--:--,--:--,--:--,--:--,44595
+D W M,27922,"Bowers, Luke",,--:--,--:--,--:--,--:--,--:--,44595
+D W M,27923,"Chavan, Varsha",,--:--,--:--,--:--,--:--,--:--,44595
+D W M,27925,"Daniels, Tiffney",,--:--,--:--,--:--,--:--,--:--,44595
+D W M,27926,"Leauanae, Henrietta",,--:--,--:--,--:--,--:--,--:--,44595
+D W M,27927,"Panui, Leiah",,--:--,--:--,--:--,--:--,--:--,44595
+D W M,27928,"Stormont, Cesaly",,--:--,--:--,--:--,--:--,--:--,44595
+D W M,22783,"Ahokava, Etilina",,11:00 AM,7:00 PM,8:00,12:15 PM,12:30 PM,44596
+D W M,22784,"Ali, Shareen",,11:00 AM,7:00 PM,8:00,1:00 PM,1:15 PM,44596
+D W M,22785,"Pilia, Frances",,11:00 AM,7:00 PM,8:00,--:--,--:--,44596
+D W M,22787,"Tepana, Renee",,11:00 AM,7:00 PM,8:00,12:15 PM,12:30 PM,44596
+D W M,22788,"Byrne, Jedda",,11:00 AM,7:00 PM,8:00,12:15 PM,12:30 PM,44596
+D W M,22794,"de Thierry, Christine",,11:00 AM,7:00 PM,8:00,12:45 PM,1:00 PM,44596
+D W M,22795,"Prasad, Jacqueline",,11:00 AM,7:00 PM,8:00,1:00 PM,1:15 PM,44596
+D W M,25139,"Clementine, Sinclair",,11:00 AM,7:00 PM,8:00,5:45 PM,6:00 PM,44596
+D W M,25140,"Annah, Clune",,11:00 AM,7:00 PM,8:00,12:45 PM,1:00 PM,44596
+D W M,25142,"Lorraine, Hoani",,11:00 AM,7:00 PM,8:00,12:30 PM,12:45 PM,44596
+D W M,25143,"Farisha, Khan",,11:00 AM,7:00 PM,8:00,1:00 PM,1:15 PM,44596
+D W M,25144,"Anne, Seumanutafa",,11:00 AM,7:00 PM,8:00,12:30 PM,12:45 PM,44596
+D W M,25146,"Sheetal, Kumar",,11:00 AM,7:00 PM,8:00,12:45 PM,1:00 PM,44596
+D W M,27919,"McFall, Peter",,--:--,--:--,--:--,--:--,--:--,44596
+D W M,27920,"Messina, Balin",,--:--,--:--,--:--,--:--,--:--,44596
+D W M,27921,"Kalekale, Seini",,--:--,--:--,--:--,--:--,--:--,44596
+D W M,27922,"Bowers, Luke",,--:--,--:--,--:--,--:--,--:--,44596
+D W M,27923,"Chavan, Varsha",,--:--,--:--,--:--,--:--,--:--,44596
+D W M,27925,"Daniels, Tiffney",,--:--,--:--,--:--,--:--,--:--,44596
+D W M,27926,"Leauanae, Henrietta",,--:--,--:--,--:--,--:--,--:--,44596
+D W M,27927,"Panui, Leiah",,--:--,--:--,--:--,--:--,--:--,44596
+D W M,27928,"Stormont, Cesaly",,--:--,--:--,--:--,--:--,--:--,44596
+D W M,22783,"Ahokava, Etilina",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,22784,"Ali, Shareen",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,22785,"Pilia, Frances",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,22787,"Tepana, Renee",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,22788,"Byrne, Jedda",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,22794,"de Thierry, Christine",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,22795,"Prasad, Jacqueline",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25139,"Clementine, Sinclair",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25140,"Annah, Clune",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25142,"Lorraine, Hoani",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25143,"Farisha, Khan",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25144,"Anne, Seumanutafa",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25146,"Sheetal, Kumar",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,27919,"McFall, Peter",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,27920,"Messina, Balin",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,27921,"Kalekale, Seini",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,27922,"Bowers, Luke",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,27923,"Chavan, Varsha",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,27925,"Daniels, Tiffney",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,27926,"Leauanae, Henrietta",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,27927,"Panui, Leiah",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,27928,"Stormont, Cesaly",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,22783,"Ahokava, Etilina",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,22784,"Ali, Shareen",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,22785,"Pilia, Frances",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,22787,"Tepana, Renee",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,22788,"Byrne, Jedda",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,22794,"de Thierry, Christine",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,22795,"Prasad, Jacqueline",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25139,"Clementine, Sinclair",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25140,"Annah, Clune",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25142,"Lorraine, Hoani",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25143,"Farisha, Khan",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25144,"Anne, Seumanutafa",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25146,"Sheetal, Kumar",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,27919,"McFall, Peter",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,27920,"Messina, Balin",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,27921,"Kalekale, Seini",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,27922,"Bowers, Luke",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,27923,"Chavan, Varsha",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,27925,"Daniels, Tiffney",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,27926,"Leauanae, Henrietta",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,27927,"Panui, Leiah",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,27928,"Stormont, Cesaly",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,13832,"Skupniewska, Alina",,3:00 PM,11:00 PM,8:00,5:00 PM,5:10 PM,44592
+D W M,14512,"Chewe, Afomia",,6:00 PM,2:00 AM,8:00,8:05 PM,8:15 PM,44592
+D W M,14524,"McDermott, Thomas",,2:00 AM,10:00 AM,8:00,4:00 AM,4:10 AM,44592
+D W M,14525,"Dushenko, Ilya",,--:--,--:--,--:--,--:--,--:--,44592
+D W M,14531,"Basiisa, Ian",,7:00 AM,3:00 PM,8:00,9:35 AM,9:45 AM,44592
+D W M,14532,"Chukwu, Ihuoma",,6:00 PM,2:00 AM,8:00,7:30 PM,7:40 PM,44592
+D W M,14533,"Novosad, Elvira",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44592
+D W M,15197,"Wendmeagegnhu, Hana",,2:00 AM,10:00 AM,8:00,3:30 AM,3:40 AM,44592
+D W M,15199,"Khalilov, Zham",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44592
+D W M,15203,"Momberume, Clemence",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44592
+D W M,15209,"Kaondera, Paidamoyo",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44592
+D W M,15215,"Orion Belachew, Elias",,2:00 AM,10:00 AM,8:00,3:45 AM,3:55 AM,44592
+D W M,15223,"Balcha, Dagim",,2:00 AM,10:00 AM,8:00,4:00 AM,4:10 AM,44592
+D W M,16004,"Matinde, Miriam",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44592
+D W M,16388,"Chikovo, Belinda",,12:00 PM,8:00 PM,8:00,6:50 PM,7:00 PM,44592
+D W M,16391,"Zaranyika, Chantelle",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44592
+D W M,16393,"Onions, Colin",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44592
+D W M,16394,"Ntini, Dumile",,7:00 PM,3:00 AM,8:00,9:20 PM,9:30 PM,44592
+D W M,16397,"Gebre, Ezana",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44592
+D W M,16404,"Negassa, Kaleb",,7:00 PM,3:00 AM,8:00,8:45 PM,8:55 PM,44592
+D W M,16411,"Nnamani, Nelson",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44592
+D W M,16418,"Odobo, Donald",,7:00 AM,3:00 PM,8:00,--:--,--:--,44592
+D W M,17402,"Ingabire, Solange",,5:00 PM,9:00 PM,4:00,6:15 PM,6:25 PM,44592
+D W M,17957,"Kalonje, Albertina",,7:00 AM,3:00 PM,8:00,9:20 AM,9:30 AM,44592
+D W M,17958,"Dzenge, Alice",,5:00 PM,1:00 AM,8:00,7:00 PM,7:10 PM,44592
+D W M,17962,"Phiri, Alison",,8:00 PM,4:00 AM,8:00,9:30 PM,9:40 PM,44592
+D W M,17963,"Nyirahuku, Anais",,--:--,--:--,--:--,--:--,--:--,44592
+D W M,17966,"Okoror, Courage",,4:00 PM,12:00 AM,8:00,5:45 PM,5:55 PM,44592
+D W M,17967,"Uwase, Diwine",,--:--,--:--,--:--,--:--,--:--,44592
+D W M,17968,"Macudo, Djath",,--:--,--:--,--:--,--:--,--:--,44592
+D W M,17969,"Muzire, Enock",,8:00 PM,4:00 AM,8:00,9:50 PM,10:00 PM,44592
+D W M,17973,"Kativu, Karen",,7:00 AM,3:00 PM,8:00,9:00 AM,9:10 AM,44592
+D W M,17974,"Iriza, Kessy",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44592
+D W M,17978,"Rajabov, Mukhsinbek",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44592
+D W M,17979,"Ivana, Munezero",,5:00 PM,1:00 AM,8:00,7:00 PM,7:10 PM,44592
+D W M,18002,"Aphiri, Shungidza",,--:--,--:--,--:--,--:--,--:--,44592
+D W M,18004,"Tsegaye, Tigist",,3:00 PM,11:00 PM,8:00,--:--,--:--,44592
+D W M,19935,"Azizillayev, Azizbek",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44592
+D W M,19937,"Bvunza, Benjamin",,6:00 PM,2:00 AM,8:00,7:50 PM,8:00 PM,44592
+D W M,19939,"Fekade, Biruk",,--:--,--:--,--:--,--:--,--:--,44592
+D W M,19940,"Ncube, Celesta",,9:00 PM,3:00 AM,6:00,10:15 PM,10:25 PM,44592
+D W M,19943,"Shimles Feleke, Christina",,5:00 PM,1:00 AM,8:00,6:30 PM,6:40 PM,44592
+D W M,19944,"Nigusu Kebede, Eyosiyas",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44592
+D W M,19945,"Kaseke, Hazvineyi",,--:--,--:--,--:--,--:--,--:--,44592
+D W M,19947,"Kawadza, Loreen",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44592
+D W M,19948,"Kwenje, Melisa Michelle",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44592
+D W M,19949,"Horonga, Ngonidzashe Sean",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44592
+D W M,19950,"Nunu, Nonceba Yvonne",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44592
+D W M,19951,"Alijonovich Saidov, Parviz",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44592
+D W M,19952,"Udochi Okorie, Peace",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44592
+D W M,19953,"Mardonbek, Rakhmatjonov",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44592
+D W M,19954,"Kaseke, Ronald Elias",,5:00 PM,1:00 AM,8:00,7:00 PM,7:10 PM,44592
+D W M,19955,"Naci Güler, Samet",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44592
+D W M,19956,"Ngara, Tanaka Peter",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44592
+D W M,19958,"Tadesse, Yanet Michael",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44592
+D W M,19959,"Abera, Zekarias",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44592
+D W M,20316,"Kebede, Bamlack",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44592
+D W M,20317,"Teffera, Bantalem",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44592
+D W M,20318,"Amadasun, Ehiosumwen",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44592
+D W M,20319,"Kalu, Favour",,7:00 PM,3:00 AM,8:00,8:45 PM,8:55 PM,44592
+D W M,20321,"Asres, Hilina",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44592
+D W M,20322,"Wolde, Hiwot",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44592
+D W M,20324,"Nishonov, Kudratbek",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44592
+D W M,20327,"Dennis, Michael",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44592
+D W M,20330,"Murengami, Samantha",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44592
+D W M,20331,"Yeneneh, Samuel",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44592
+D W M,20335,"Mrosso, Vanessa",,3:00 PM,3:00 AM,12:00,4:30 PM,4:40 PM,44592
+D W M,20337,"Lemma, Yonas",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44592
+D W M,20963,"Maplanka, Bongani",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44592
+D W M,20965,"Chimedza, Courtney",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44592
+D W M,20972,"Ma³yszko, Mateusz",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44592
+D W M,20973,"Lapko, Michal",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44592
+D W M,20978,"Acheampong, Paul",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44592
+D W M,21142,"Roxshan, Anthony",,3:00 PM,11:00 PM,8:00,--:--,--:--,44592
+D W M,21143,"Numonov, Boymurod",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44592
+D W M,21144,"Tawanda Charuma, Christopher",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44592
+D W M,21146,"Gofur Murodova, Dilnoza",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44592
+D W M,21147,"Manjengwa, Francis",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44592
+D W M,21150,"Zondesa, Ndangariro",,7:00 PM,4:00 AM,9:00,9:00 PM,9:10 PM,44592
+D W M,21151,"Cleto Dube, Panashe",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44592
+D W M,21152,"Abosede Ogundele, Rafiat",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44592
+D W M,21153,"Kassa, Ruth",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44592
+D W M,21156,"Tonderai Chaitezvi , Tanyaradzwa",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44592
+D W M,21157,"Solomon Dabi, Nathanael",,--:--,--:--,--:--,--:--,--:--,44592
+D W M,21159,"Peiris, Thiththala",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44592
+D W M,21160,"Mashababe, Tinashe",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44592
+D W M,21162,"Berwa Fiona, Umulisa",,7:00 PM,3:00 AM,8:00,8:15 PM,8:25 PM,44592
+D W M,21163,"Rwubuzizi Stephane, Shema",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44592
+D W M,21164,"Latifa Cindy, Kamikazi",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44592
+D W M,21165,"Rangira, Egide",,7:00 PM,3:00 AM,8:00,8:45 PM,8:55 PM,44592
+D W M,21166,"Keza Rwubuzizi, Sarah",,3:00 PM,11:00 PM,8:00,5:00 PM,5:10 PM,44592
+D W M,21580,"Demilew, Haymanot",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44592
+D W M,21582,"Rompa, Jakub",,3:00 PM,11:00 PM,8:00,--:--,--:--,44592
+D W M,21584,"Meta, Kaleb",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44592
+D W M,21586,"Woldesemayat, Tsion",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44592
+D W M,21587,"Ikem, Samuel",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44592
+D W M,21588,"Aimable, Mugabo",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44592
+D W M,21589,"Asebot, Hanna",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44592
+D W M,21590,"Oladipo, Dare",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44592
+D W M,21591,"Tapiwanashe, Samuriwo",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44592
+D W M,21592,"Awoyale, Ayorinde",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44592
+D W M,21600,"Kopotsha, Fezile",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44592
+D W M,21603,"Inema, Sandrine",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44592
+D W M,21827,"Willis, Casandra",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44592
+D W M,21829,"Gelaw, Betelhem",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44592
+D W M,21831,"Jemal, Elham",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44592
+D W M,21832,"Saidshoeva, Mastona",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44592
+D W M,21833,"Mushonga, Shamiso",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44592
+D W M,21838,"My Thuy, Uyen",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44592
+D W M,21839,"Lyna, Kaliza",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44592
+D W M,21841,"Tadesse, Ruth",,6:00 PM,2:00 AM,8:00,--:--,--:--,44592
+D W M,21842,"Shiferaw, Mieraf",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44592
+D W M,21843,"Chaukura, Devaughn",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44592
+D W M,21844,"Fassan, Peter",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44592
+D W M,21845,"Gumbi, Tatenda",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44592
+D W M,21847,"Kayabo, Hugues",,4:00 PM,12:00 AM,8:00,5:45 PM,5:55 PM,44592
+D W M,21848,"Emgoue, Adrienne",,5:00 PM,1:00 AM,8:00,7:00 PM,7:10 PM,44592
+D W M,21849,"Leveille, Chelsea",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44592
+D W M,21850,"Irankunda, Maurelle",,1:00 AM,9:00 AM,8:00,2:45 AM,2:55 AM,44592
+D W M,21851,"Igiraneza, Ange",,--:--,--:--,--:--,--:--,--:--,44592
+D W M,21852,"Avemariya, Toussaint",,1:00 AM,9:00 AM,8:00,3:00 AM,3:10 AM,44592
+D W M,21853,"Tonodele, Nathan",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44592
+D W M,21854,"Karangwa, Uwase",,11:00 AM,3:00 PM,4:00,12:30 PM,12:40 PM,44592
+D W M,21856,"Nsengiyumva, Lolita",,9:00 PM,1:00 AM,4:00,10:30 PM,10:40 PM,44592
+D W M,21857,"Ntwali, Daniel",,9:00 AM,5:00 PM,8:00,10:45 AM,10:55 AM,44592
+D W M,22655,"Mtui, Victor",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44592
+D W M,22656,"Chimedza, Rumbidzai",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44592
+D W M,22657,"Mhondoro, Faith",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44592
+D W M,22659,"Elayidath, Devika",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44592
+D W M,22661,"Sen, Ashok",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44592
+D W M,22662,"Dube, Lee-Roy",,7:00 PM,3:00 AM,8:00,--:--,--:--,44592
+D W M,22663,"Abdusalomov, Okhunjon",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44592
+D W M,22665,"Rinomhota, Dexter",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44592
+D W M,22666,"Masiri, Tatenda",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44592
+D W M,22667,"Kodohu, Bridgit",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44592
+D W M,22668,"Murodova, Sadokat",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44592
+D W M,22669,"Musana, Dylan",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44592
+D W M,22670,"Abayomi, Samuel",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44592
+D W M,22671,"Kunda, Naomi",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44592
+D W M,22672,"Ayalew, Baltazar",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44592
+D W M,22673,"Kaze, Tanguy",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44592
+D W M,22674,"Henry, Uwimana",,7:00 PM,3:00 AM,8:00,8:45 PM,8:55 PM,44592
+D W M,22675,"Ngarambe, Christine",,9:00 AM,5:00 PM,8:00,10:45 AM,10:55 AM,44592
+D W M,22677,"Ouchkif, Noussair",,9:00 AM,5:00 PM,8:00,11:00 AM,11:10 AM,44592
+D W M,22678,"Ishimwe, Alice",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44592
+D W M,22680,"Rwigema, Gisa",,3:00 PM,11:00 PM,8:00,10:00 PM,10:10 PM,44592
+D W M,22957,"Bekele, Yohans",,4:00 PM,12:00 AM,8:00,--:--,--:--,44592
+D W M,22962,"Kodhwata, Tafaranashe",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44592
+D W M,22963,"Abdulnabi, Abdulrazaak",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44592
+D W M,22964,"Shoniwa, Tafadzwa",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44592
+D W M,22971,"Nshimyumuremyi, Alain",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44592
+D W M,22972,"Mohammed, Abimael",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44592
+D W M,23182,"Habonimana, John",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44592
+D W M,23183,"Alain, Hagenimana",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44592
+D W M,23184,"Monestime, Marvens-Neerley",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44592
+D W M,23186,"Elmouden, Achraf",,--:--,--:--,--:--,--:--,--:--,44592
+D W M,23187,"Ourahali, Ayoub",,--:--,--:--,--:--,--:--,--:--,44592
+D W M,23188,"Manyumwa, Kundai",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44592
+D W M,23190,"Chinembiri, Tanaka",,4:00 PM,3:00 AM,11:00,6:00 PM,6:10 PM,44592
+D W M,23191,"Makarichi, Tinotenda",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44592
+D W M,23193,"Mtatiro, Rosemary",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44592
+D W M,23194,"Tursunov, Muhammadali",,3:00 PM,3:00 AM,12:00,6:00 PM,6:15 PM,44592
+D W M,23195,"belay, feven",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44592
+D W M,23196,"Mahiyev, Javidan",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44592
+D W M,23198,"Bouzid, Achraf",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44592
+D W M,23202,"Munyanduri, Nelson",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44592
+D W M,23204,"Abdu, Thaheba",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44592
+D W M,23206,"Masukume, Millicent",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44592
+D W M,23207,"OLUWATOYESE, EGBEJINMI",,5:00 PM,1:00 AM,8:00,--:--,--:--,44592
+D W M,23208,"Magweva, Russel",,3:00 PM,2:00 AM,11:00,4:30 PM,4:40 PM,44592
+D W M,23477,"Ndlovu, Thabani",,5:00 PM,1:00 AM,8:00,7:00 PM,7:10 PM,44592
+D W M,23478,"Sibanda, Thembinkosi",,3:00 PM,11:00 PM,8:00,--:--,--:--,44592
+D W M,23480,"Chidiebere, Nwarueze",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44592
+D W M,23481,"Cocombile, Alpha",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44592
+D W M,23482,"Zeb, Ahmad",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44592
+D W M,23483,"Muswere, Ellen",,5:00 PM,3:00 AM,10:00,7:00 PM,7:10 PM,44592
+D W M,23487,"Mutsvagiwa, Bernadette",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44592
+D W M,23488,"Marecha, Wendy",,5:00 PM,1:00 AM,8:00,7:00 PM,7:10 PM,44592
+D W M,23493,"Macauley, Saviour",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44592
+D W M,23495,"Kwizera, Leon",,9:00 AM,5:00 PM,8:00,11:15 AM,11:25 AM,44592
+D W M,23497,"Froeliger, Lucas",,10:00 AM,6:00 PM,8:00,--:--,--:--,44592
+D W M,23744,"Yenesew, Betelhem",,5:00 PM,1:00 AM,8:00,7:00 PM,7:10 PM,44592
+D W M,23747,"Krasavin, Georgy",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44592
+D W M,23748,"Asrat, Hermela",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44592
+D W M,23749,"Matarutse, Hope",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44592
+D W M,23750,"Gwata, Joyce",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44592
+D W M,23753,"Kuchinani, Lynmary",,5:00 PM,1:00 AM,8:00,7:00 PM,7:10 PM,44592
+D W M,23754,"Zimai, Michelle",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44592
+D W M,23760,"Ndihagule, Saida",,4:00 PM,12:00 AM,8:00,--:--,--:--,44592
+D W M,23761,"Hadi, Sayed",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44592
+D W M,23762,"Mathias, Shanice",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44592
+D W M,23764,"Chinhondo, Venesa",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44592
+D W M,23765,"SINGH, YUVARAJ",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44592
+D W M,24345,"Wudu, Dagmawi",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44592
+D W M,24346,"Ndlovu, Cynthia",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44592
+D W M,24348,"Rufaro, Paidamoyo",,3:00 PM,11:00 PM,8:00,4:20 PM,4:30 PM,44592
+D W M,24349,"Blair, Salumu",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44592
+D W M,24355,"Mungarevani, Lisa",,7:00 PM,3:00 AM,8:00,--:--,--:--,44592
+D W M,24357,"Sebhatu, Michael",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44592
+D W M,24358,"Endi, Teta",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44592
+D W M,24493,"Chibindi, Mark",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44592
+D W M,24494,"Dube, Nobukhosi",,5:00 PM,3:00 AM,10:00,8:00 PM,8:15 PM,44592
+D W M,24495,"Yakubu, Adedeji",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44592
+D W M,24496,"Selemani, Said",,3:00 PM,11:00 PM,8:00,4:50 PM,5:00 PM,44592
+D W M,24499,"Sanyika, Tiwayi",,5:00 PM,1:00 AM,8:00,7:00 PM,7:10 PM,44592
+D W M,24500,"Umoh, Henrietta",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44592
+D W M,24502,"Guliev, Elvin",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44592
+D W M,24503,"Gakii, Bridget",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44592
+D W M,24505,"Kashkaeva, Zhibek",,3:00 PM,3:00 AM,12:00,4:15 PM,4:25 PM,44592
+D W M,24506,"Eze, Joseph",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44592
+D W M,24507,"Meshesha, Fitsum",,5:00 PM,1:00 AM,8:00,7:00 PM,7:10 PM,44592
+D W M,24508,"Muleta, Abel",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44592
+D W M,24511,"Moyo, Chipo",,4:00 PM,3:00 AM,11:00,5:45 PM,5:55 PM,44592
+D W M,24512,"Shumba, Gamuchirai",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44592
+D W M,24513,"Aina, Oluwatoroti",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44592
+D W M,24514,"Bhadra, Rohan",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44592
+D W M,24515,"Roy, Anuradha",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44592
+D W M,24516,"Ogbonnaya, Emmanuel",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44592
+D W M,24517,"Akanbi, Jeremiah",,5:00 PM,1:00 AM,8:00,7:00 PM,7:10 PM,44592
+D W M,24901,"Aniegbuna, Bruno",,4:00 PM,12:00 AM,8:00,--:--,--:--,44592
+D W M,24902,"Barczewski, Bogusz",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44592
+D W M,24903,"Hunin, Danil",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44592
+D W M,24904,"Svirydzenka, Ulyana",,7:00 PM,3:00 AM,8:00,--:--,--:--,44592
+D W M,24905,"Ogwu, Abel",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44592
+D W M,24906,"Szurzynski, Adam",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44592
+D W M,24908,"Udeh, Chinemelum",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44592
+D W M,24909,"Bature, Keziah",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44592
+D W M,24910,"Ahmed, Khalid",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44592
+D W M,25153,"Subair, Mubarak",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44592
+D W M,25155,"Ali, Syed",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44592
+D W M,25156,"Tembo, Gugulethu",,3:00 PM,3:00 AM,12:00,6:00 PM,6:15 PM,44592
+D W M,25158,"Lata, Faya",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44592
+D W M,25159,"Worku, Sinedu",,3:00 PM,11:00 PM,8:00,5:00 PM,5:10 PM,44592
+D W M,25160,"Mugwambi, Kudakwashe",,--:--,--:--,--:--,--:--,--:--,44592
+D W M,25161,"Masiiwa, Chiedza",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44592
+D W M,25162,"Lemma, Dagmawi",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44592
+D W M,25163,"Sengupta, Arghya",,5:00 PM,3:00 AM,10:00,6:30 PM,6:40 PM,44592
+D W M,25164,"Esohe, Asubaja",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44592
+D W M,25165,"Ndlovu, Kim",,3:00 PM,11:00 PM,8:00,5:00 PM,5:10 PM,44592
+D W M,25166,"Okpachui, David",,5:00 PM,1:00 AM,8:00,7:00 PM,7:10 PM,44592
+D W M,25167,"Mapuranga, Takunda",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44592
+D W M,25168,"Matambudzo, Florence",,3:00 PM,11:00 PM,8:00,5:00 PM,5:10 PM,44592
+D W M,25169,"Ikogwe, Arthur",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44592
+D W M,25170,"Mpofu, Greatjoy",,3:00 PM,3:00 AM,12:00,6:00 PM,6:15 PM,44592
+D W M,25171,"Fernando, Witharanage",,3:00 PM,11:00 PM,8:00,5:00 PM,5:10 PM,44592
+D W M,25174,"Ismayilzada, Nijat",,3:00 PM,11:00 PM,8:00,5:00 PM,5:10 PM,44592
+D W M,25176,"Dadhich, Ridhi",,3:00 PM,3:00 AM,12:00,5:00 PM,5:10 PM,44592
+D W M,25177,"Samkyi, Michael",,3:00 PM,11:00 PM,8:00,5:00 PM,5:10 PM,44592
+D W M,25178,"Girma, Mekuria",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44592
+D W M,25180,"Ndikubwimana, Rosine",,9:00 AM,9:00 PM,12:00,11:30 AM,11:40 AM,44592
+D W M,25181,"Deborah, Gakumba",,3:00 PM,5:00 PM,2:00,4:15 PM,4:25 PM,44592
+D W M,25380,"Kurama, Pius",,4:00 PM,12:00 AM,8:00,5:45 PM,5:55 PM,44592
+D W M,25494,"Fisseha, Helen",,5:00 PM,1:00 AM,8:00,7:00 PM,7:10 PM,44592
+D W M,25496,"Gete, Mahder",,5:00 PM,1:00 AM,8:00,--:--,--:--,44592
+D W M,25497,"Mungure, Ivy",,3:00 PM,3:00 AM,12:00,4:45 PM,4:55 PM,44592
+D W M,25499,"Shukurlu, Javad",,3:00 PM,11:00 PM,8:00,5:00 PM,5:10 PM,44592
+D W M,25501,"Gerresilassie, Kaleab",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44592
+D W M,25504,"Sinniamourd, Wallace",,3:00 PM,11:00 PM,8:00,5:00 PM,5:10 PM,44592
+D W M,25811,"Nenharira, Prosper",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44592
+D W M,25812,"Willemse, Ravinaldo",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44592
+D W M,25813,"Abebe, Yustina",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44592
+D W M,25814,"Qatipi, Frensi",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44592
+D W M,25815,"KEVINE, Sinzihara",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44592
+D W M,25816,"Tafirenyika, Desmond",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44592
+D W M,25818,"Barth-obi, Claribel",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44592
+D W M,25819,"Inyang, Jesam",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44592
+D W M,25821,"NKUSI, BENOIT",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44592
+D W M,25822,"Umarbakiev, Asomiddin",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44592
+D W M,25823,"Ezennaka, Valentine",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44592
+D W M,25824,"Assfha, Blen",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44592
+D W M,25825,"Moyo, Mduduzi",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44592
+D W M,25827,"Foxx, Mickel",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44592
+D W M,25828,"Tamiru, Kidist",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44592
+D W M,25829,"Tshuma, Nobandile",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44592
+D W M,25830,"Nyathi, Methembe",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44592
+D W M,25831,"Difabachew, Mebea",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44592
+D W M,25832,"Zenabu, Mikias",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44592
+D W M,25833,"Zimondi, Bertha",,3:00 PM,11:00 PM,8:00,5:00 PM,5:10 PM,44592
+D W M,25834,"Opara, Angela",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44592
+D W M,25835,"Alemayehu, Amanuel",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44592
+D W M,25838,"Tabaruka, Alexandre",,9:00 AM,5:00 PM,8:00,11:00 AM,11:10 AM,44592
+D W M,26630,"Robera, Benti",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44592
+D W M,26631,"Salem, Mahmoud",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44592
+D W M,26636,"Mudyiradima, Tanyaradzwa",,3:00 PM,11:00 PM,8:00,--:--,--:--,44592
+D W M,26638,"Chitaka, Tinashe",,4:00 PM,12:00 AM,8:00,--:--,--:--,44592
+D W M,26639,"Tibebe, Natnael",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44592
+D W M,26644,"Stec, Sandra",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44592
+D W M,26645,"Abebe, Fitsum",,3:00 PM,11:00 PM,8:00,5:00 PM,5:10 PM,44592
+D W M,26646,"Simeneh, Abel",,4:00 PM,3:00 AM,11:00,6:30 PM,6:45 PM,44592
+D W M,26647,"Baheru, Yeabsira",,3:00 PM,11:00 PM,8:00,5:00 PM,5:10 PM,44592
+D W M,26648,"Alemayehu, Bezawit",,3:00 PM,11:00 PM,8:00,8:15 PM,8:25 PM,44592
+D W M,26649,"Eze, Nnamdi",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44592
+D W M,26650,"Krishna, Athul",,3:00 PM,11:00 PM,8:00,5:00 PM,5:10 PM,44592
+D W M,26651,"Mataranyika, Dorothy",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44592
+D W M,26652,"Sibanda, Princess",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44592
+D W M,26655,"Nxele, Andile",,3:00 PM,11:00 PM,8:00,5:00 PM,5:10 PM,44592
+D W M,26656,"Ogbolu, Ijeoma",,3:00 PM,3:00 AM,12:00,4:30 PM,4:40 PM,44592
+D W M,26657,"Achareke, Chinedu",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44592
+D W M,26658,"Christabelle, Umulisa",,10:00 AM,6:00 PM,8:00,--:--,--:--,44592
+D W M,26659,"Francky, Igihozo",,10:00 AM,6:00 PM,8:00,--:--,--:--,44592
+D W M,26660,"Ngesonziza, Hafsana",,10:00 AM,6:00 PM,8:00,--:--,--:--,44592
+D W M,26662,"Kanwitonze, Bruce",,10:00 AM,6:00 PM,8:00,--:--,--:--,44592
+D W M,26663,"Ayak, Junior",,10:00 AM,6:00 PM,8:00,--:--,--:--,44592
+D W M,26909,"Aliyeva, Ulduza",,3:00 PM,11:00 PM,8:00,5:00 PM,5:10 PM,44592
+D W M,27252,"Tesema, Arsema",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44592
+D W M,27253,"Khalifa, ibrahim",,3:00 PM,11:00 PM,8:00,5:00 PM,5:10 PM,44592
+D W M,27254,"Nanda, Muteguza",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44592
+D W M,27255,"Naffaa, Mohamad",,3:00 PM,11:00 PM,8:00,5:00 PM,5:10 PM,44592
+D W M,27256,"Molla, Kidist",,3:00 PM,11:00 PM,8:00,5:00 PM,5:10 PM,44592
+D W M,27257,"Tesfay, Asfaw",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44592
+D W M,27260,"Lachheb, Omar",,4:00 PM,12:00 AM,8:00,5:15 PM,5:25 PM,44592
+D W M,27463,"Semu, Yordanos",,3:00 PM,11:00 PM,8:00,9:15 PM,9:25 PM,44592
+D W M,27464,"Hadgu, Yohannes",,5:00 PM,1:00 AM,8:00,6:30 PM,6:40 PM,44592
+D W M,27465,"Berhane, Yohanna",,6:00 PM,2:00 AM,8:00,7:45 PM,7:55 PM,44592
+D W M,27466,"Mijena, Firaol",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44592
+D W M,27469,"Berhe, Bethelhem",,4:00 PM,12:00 AM,8:00,5:45 PM,5:55 PM,44592
+D W M,27470,"Assad, Dunia",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44592
+D W M,27472,"Hasan, Rakibul",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44592
+D W M,27474,"Moyo, Precious",,3:00 PM,11:00 PM,8:00,9:45 PM,9:55 PM,44592
+D W M,27478,"Spektor, Daniel",,3:30 PM,11:30 PM,8:00,5:15 PM,5:25 PM,44592
+D W M,27641,"Payne, Johnson",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44592
+D W M,27642,"Akinola, Ayodeji",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44592
+D W M,27643,"SALAMI, RAHMAN",,4:00 PM,12:00 AM,8:00,5:30 PM,5:40 PM,44592
+D W M,27644,"Mathew, Sonu",,3:00 PM,11:00 PM,8:00,--:--,--:--,44592
+D W M,27646,"Makhmudova, Sakina",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44592
+D W M,27647,"Tadesse, Ephrem",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44592
+D W M,27648,"UZOGARA, GEORGE",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44592
+D W M,27649,"SAKA, JOHNSON",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44592
+D W M,27650,"Machaka, Leon",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44592
+D W M,27929,"Uwiman, Claudine",,3:00 PM,11:00 PM,8:00,--:--,--:--,44592
+D W M,13832,"Skupniewska, Alina",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44593
+D W M,14512,"Chewe, Afomia",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44593
+D W M,14524,"McDermott, Thomas",,2:00 AM,10:00 AM,8:00,4:35 AM,4:45 AM,44593
+D W M,14525,"Dushenko, Ilya",,7:00 AM,3:00 PM,8:00,9:00 AM,9:10 AM,44593
+D W M,14531,"Basiisa, Ian",,7:00 AM,3:00 PM,8:00,8:30 AM,8:40 AM,44593
+D W M,14532,"Chukwu, Ihuoma",,6:00 PM,2:00 AM,8:00,7:30 PM,7:40 PM,44593
+D W M,15197,"Wendmeagegnhu, Hana",,2:00 AM,10:00 AM,8:00,3:35 AM,3:45 AM,44593
+D W M,15199,"Khalilov, Zham",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44593
+D W M,15203,"Momberume, Clemence",,3:00 PM,11:00 PM,8:00,5:00 PM,5:10 PM,44593
+D W M,15209,"Kaondera, Paidamoyo",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44593
+D W M,15215,"Orion Belachew, Elias",,2:00 AM,10:00 AM,8:00,3:45 AM,3:55 AM,44593
+D W M,15223,"Balcha, Dagim",,2:00 AM,10:00 AM,8:00,4:00 AM,4:10 AM,44593
+D W M,16004,"Matinde, Miriam",,7:00 PM,3:00 AM,8:00,8:45 PM,8:55 PM,44593
+D W M,16388,"Chikovo, Belinda",,10:00 AM,6:00 PM,8:00,--:--,--:--,44593
+D W M,16391,"Zaranyika, Chantelle",,--:--,--:--,--:--,--:--,--:--,44593
+D W M,16393,"Onions, Colin",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44593
+D W M,16394,"Ntini, Dumile",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44593
+D W M,16397,"Gebre, Ezana",,7:00 PM,3:00 AM,8:00,8:45 PM,8:55 PM,44593
+D W M,16404,"Negassa, Kaleb",,7:00 PM,3:00 AM,8:00,9:05 PM,9:15 PM,44593
+D W M,16411,"Nnamani, Nelson",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44593
+D W M,16418,"Odobo, Donald",,--:--,--:--,--:--,--:--,--:--,44593
+D W M,17402,"Ingabire, Solange",,5:00 PM,9:00 PM,4:00,6:30 PM,6:40 PM,44593
+D W M,17957,"Kalonje, Albertina",,7:00 AM,3:00 PM,8:00,9:00 AM,9:10 AM,44593
+D W M,17958,"Dzenge, Alice",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44593
+D W M,17962,"Phiri, Alison",,8:00 PM,4:00 AM,8:00,9:30 PM,9:40 PM,44593
+D W M,17963,"Nyirahuku, Anais",,5:00 PM,1:00 AM,8:00,6:05 PM,6:15 PM,44593
+D W M,17966,"Okoror, Courage",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44593
+D W M,17967,"Uwase, Diwine",,1:00 AM,9:00 AM,8:00,3:00 AM,3:10 AM,44593
+D W M,17968,"Macudo, Djath",,8:00 PM,4:00 AM,8:00,9:45 PM,9:55 PM,44593
+D W M,17969,"Muzire, Enock",,--:--,--:--,--:--,--:--,--:--,44593
+D W M,17973,"Kativu, Karen",,7:00 AM,3:00 PM,8:00,9:00 AM,9:10 AM,44593
+D W M,17974,"Iriza, Kessy",,5:00 PM,1:00 AM,8:00,6:30 PM,6:40 PM,44593
+D W M,17978,"Rajabov, Mukhsinbek",,3:00 PM,11:00 PM,8:00,5:00 PM,5:10 PM,44593
+D W M,17979,"Ivana, Munezero",,5:00 PM,1:00 AM,8:00,7:00 PM,7:10 PM,44593
+D W M,18002,"Aphiri, Shungidza",,2:00 AM,10:00 AM,8:00,4:10 AM,4:20 AM,44593
+D W M,18004,"Tsegaye, Tigist",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44593
+D W M,19935,"Azizillayev, Azizbek",,5:00 PM,1:00 AM,8:00,--:--,--:--,44593
+D W M,19937,"Bvunza, Benjamin",,6:00 PM,2:00 AM,8:00,7:30 PM,7:40 PM,44593
+D W M,19939,"Fekade, Biruk",,7:00 PM,3:00 AM,8:00,8:45 PM,8:55 PM,44593
+D W M,19940,"Ncube, Celesta",,9:00 PM,3:00 AM,6:00,11:15 PM,11:25 PM,44593
+D W M,19943,"Shimles Feleke, Christina",,5:00 PM,1:00 AM,8:00,7:00 PM,7:10 PM,44593
+D W M,19944,"Nigusu Kebede, Eyosiyas",,4:00 PM,12:00 AM,8:00,5:30 PM,5:40 PM,44593
+D W M,19945,"Kaseke, Hazvineyi",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44593
+D W M,19947,"Kawadza, Loreen",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44593
+D W M,19948,"Kwenje, Melisa Michelle",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44593
+D W M,19949,"Horonga, Ngonidzashe Sean",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44593
+D W M,19950,"Nunu, Nonceba Yvonne",,4:00 PM,12:00 AM,8:00,5:30 PM,5:40 PM,44593
+D W M,19951,"Alijonovich Saidov, Parviz",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44593
+D W M,19952,"Udochi Okorie, Peace",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44593
+D W M,19953,"Mardonbek, Rakhmatjonov",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44593
+D W M,19954,"Kaseke, Ronald Elias",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44593
+D W M,19955,"Naci Güler, Samet",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44593
+D W M,19956,"Ngara, Tanaka Peter",,4:00 PM,12:00 AM,8:00,5:30 PM,5:40 PM,44593
+D W M,19958,"Tadesse, Yanet Michael",,6:00 PM,2:00 AM,8:00,7:45 PM,7:55 PM,44593
+D W M,19959,"Abera, Zekarias",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44593
+D W M,20316,"Kebede, Bamlack",,4:00 PM,12:00 AM,8:00,5:30 PM,5:40 PM,44593
+D W M,20317,"Teffera, Bantalem",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44593
+D W M,20318,"Amadasun, Ehiosumwen",,4:00 PM,12:00 AM,8:00,--:--,--:--,44593
+D W M,20319,"Kalu, Favour",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44593
+D W M,20321,"Asres, Hilina",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44593
+D W M,20322,"Wolde, Hiwot",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44593
+D W M,20324,"Nishonov, Kudratbek",,4:00 PM,12:00 AM,8:00,5:45 PM,5:55 PM,44593
+D W M,20327,"Dennis, Michael",,6:00 PM,2:00 AM,8:00,7:45 PM,7:55 PM,44593
+D W M,20330,"Murengami, Samantha",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44593
+D W M,20331,"Yeneneh, Samuel",,5:00 PM,1:00 AM,8:00,7:00 PM,7:10 PM,44593
+D W M,20335,"Mrosso, Vanessa",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44593
+D W M,20337,"Lemma, Yonas",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44593
+D W M,20963,"Maplanka, Bongani",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44593
+D W M,20965,"Chimedza, Courtney",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44593
+D W M,20972,"Ma³yszko, Mateusz",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44593
+D W M,20973,"Lapko, Michal",,4:00 PM,12:00 AM,8:00,5:45 PM,5:55 PM,44593
+D W M,20978,"Acheampong, Paul",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44593
+D W M,21142,"Roxshan, Anthony",,3:00 PM,11:00 PM,8:00,5:00 PM,5:10 PM,44593
+D W M,21143,"Numonov, Boymurod",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44593
+D W M,21144,"Tawanda Charuma, Christopher",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44593
+D W M,21146,"Gofur Murodova, Dilnoza",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44593
+D W M,21147,"Manjengwa, Francis",,4:00 PM,12:00 AM,8:00,5:45 PM,5:55 PM,44593
+D W M,21150,"Zondesa, Ndangariro",,10:00 PM,3:00 AM,5:00,11:45 PM,11:55 PM,44593
+D W M,21151,"Cleto Dube, Panashe",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44593
+D W M,21152,"Abosede Ogundele, Rafiat",,4:00 PM,12:00 AM,8:00,5:45 PM,5:55 PM,44593
+D W M,21153,"Kassa, Ruth",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44593
+D W M,21156,"Tonderai Chaitezvi , Tanyaradzwa",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44593
+D W M,21157,"Solomon Dabi, Nathanael",,7:00 PM,3:00 AM,8:00,9:20 PM,9:30 PM,44593
+D W M,21159,"Peiris, Thiththala",,--:--,--:--,--:--,--:--,--:--,44593
+D W M,21160,"Mashababe, Tinashe",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44593
+D W M,21162,"Berwa Fiona, Umulisa",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44593
+D W M,21163,"Rwubuzizi Stephane, Shema",,4:00 PM,12:00 AM,8:00,5:45 PM,5:55 PM,44593
+D W M,21164,"Latifa Cindy, Kamikazi",,7:00 PM,3:00 AM,8:00,8:45 PM,8:55 PM,44593
+D W M,21165,"Rangira, Egide",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44593
+D W M,21166,"Keza Rwubuzizi, Sarah",,3:00 PM,11:00 PM,8:00,5:00 PM,5:10 PM,44593
+D W M,21580,"Demilew, Haymanot",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44593
+D W M,21582,"Rompa, Jakub",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44593
+D W M,21584,"Meta, Kaleb",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44593
+D W M,21586,"Woldesemayat, Tsion",,4:00 PM,12:00 AM,8:00,5:45 PM,5:55 PM,44593
+D W M,21587,"Ikem, Samuel",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44593
+D W M,21588,"Aimable, Mugabo",,4:00 PM,12:00 AM,8:00,5:45 PM,5:55 PM,44593
+D W M,21589,"Asebot, Hanna",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44593
+D W M,21590,"Oladipo, Dare",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44593
+D W M,21591,"Tapiwanashe, Samuriwo",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44593
+D W M,21592,"Awoyale, Ayorinde",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44593
+D W M,21600,"Kopotsha, Fezile",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44593
+D W M,21603,"Inema, Sandrine",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44593
+D W M,21827,"Willis, Casandra",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44593
+D W M,21829,"Gelaw, Betelhem",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44593
+D W M,21831,"Jemal, Elham",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44593
+D W M,21832,"Saidshoeva, Mastona",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44593
+D W M,21833,"Mushonga, Shamiso",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44593
+D W M,21838,"My Thuy, Uyen",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44593
+D W M,21839,"Lyna, Kaliza",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44593
+D W M,21841,"Tadesse, Ruth",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44593
+D W M,21842,"Shiferaw, Mieraf",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44593
+D W M,21843,"Chaukura, Devaughn",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44593
+D W M,21844,"Fassan, Peter",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44593
+D W M,21845,"Gumbi, Tatenda",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44593
+D W M,21847,"Kayabo, Hugues",,4:00 PM,12:00 AM,8:00,5:45 PM,5:55 PM,44593
+D W M,21848,"Emgoue, Adrienne",,5:00 PM,1:00 AM,8:00,7:00 PM,7:10 PM,44593
+D W M,21849,"Leveille, Chelsea",,7:00 PM,3:00 AM,8:00,8:45 PM,8:55 PM,44593
+D W M,21850,"Irankunda, Maurelle",,1:00 AM,9:00 AM,8:00,2:35 AM,2:45 AM,44593
+D W M,21851,"Igiraneza, Ange",,1:00 AM,9:00 AM,8:00,3:15 AM,3:25 AM,44593
+D W M,21852,"Avemariya, Toussaint",,1:00 AM,9:00 AM,8:00,3:35 AM,3:45 AM,44593
+D W M,21853,"Tonodele, Nathan",,3:00 PM,11:00 PM,8:00,5:00 PM,5:10 PM,44593
+D W M,21854,"Karangwa, Uwase",,9:00 AM,5:00 PM,8:00,10:30 AM,10:40 AM,44593
+D W M,21856,"Nsengiyumva, Lolita",,9:00 PM,1:00 AM,4:00,10:15 PM,10:25 PM,44593
+D W M,21857,"Ntwali, Daniel",,9:00 AM,5:00 PM,8:00,10:30 AM,10:40 AM,44593
+D W M,22655,"Mtui, Victor",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44593
+D W M,22656,"Chimedza, Rumbidzai",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44593
+D W M,22657,"Mhondoro, Faith",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44593
+D W M,22659,"Elayidath, Devika",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44593
+D W M,22661,"Sen, Ashok",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44593
+D W M,22662,"Dube, Lee-Roy",,7:00 PM,3:00 AM,8:00,--:--,--:--,44593
+D W M,22663,"Abdusalomov, Okhunjon",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44593
+D W M,22665,"Rinomhota, Dexter",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44593
+D W M,22666,"Masiri, Tatenda",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44593
+D W M,22667,"Kodohu, Bridgit",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44593
+D W M,22668,"Murodova, Sadokat",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44593
+D W M,22669,"Musana, Dylan",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44593
+D W M,22670,"Abayomi, Samuel",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44593
+D W M,22671,"Kunda, Naomi",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44593
+D W M,22672,"Ayalew, Baltazar",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44593
+D W M,22673,"Kaze, Tanguy",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44593
+D W M,22674,"Henry, Uwimana",,7:00 PM,3:00 AM,8:00,9:20 PM,9:30 PM,44593
+D W M,22675,"Ngarambe, Christine",,9:00 AM,5:00 PM,8:00,10:30 AM,10:40 AM,44593
+D W M,22677,"Ouchkif, Noussair",,9:00 AM,5:00 PM,8:00,10:45 AM,10:55 AM,44593
+D W M,22678,"Ishimwe, Alice",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44593
+D W M,22680,"Rwigema, Gisa",,3:00 PM,11:00 PM,8:00,5:00 PM,5:10 PM,44593
+D W M,22957,"Bekele, Yohans",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44593
+D W M,22962,"Kodhwata, Tafaranashe",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44593
+D W M,22963,"Abdulnabi, Abdulrazaak",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44593
+D W M,22964,"Shoniwa, Tafadzwa",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44593
+D W M,22971,"Nshimyumuremyi, Alain",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44593
+D W M,22972,"Mohammed, Abimael",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44593
+D W M,23182,"Habonimana, John",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44593
+D W M,23183,"Alain, Hagenimana",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44593
+D W M,23184,"Monestime, Marvens-Neerley",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44593
+D W M,23186,"Elmouden, Achraf",,9:00 AM,5:00 PM,8:00,11:20 AM,11:30 AM,44593
+D W M,23187,"Ourahali, Ayoub",,9:00 AM,5:00 PM,8:00,11:35 AM,11:45 AM,44593
+D W M,23188,"Manyumwa, Kundai",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44593
+D W M,23190,"Chinembiri, Tanaka",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44593
+D W M,23191,"Makarichi, Tinotenda",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44593
+D W M,23193,"Mtatiro, Rosemary",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44593
+D W M,23194,"Tursunov, Muhammadali",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44593
+D W M,23195,"belay, feven",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44593
+D W M,23196,"Mahiyev, Javidan",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44593
+D W M,23198,"Bouzid, Achraf",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44593
+D W M,23202,"Munyanduri, Nelson",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44593
+D W M,23204,"Abdu, Thaheba",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44593
+D W M,23206,"Masukume, Millicent",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44593
+D W M,23207,"OLUWATOYESE, EGBEJINMI",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44593
+D W M,23208,"Magweva, Russel",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44593
+D W M,23477,"Ndlovu, Thabani",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44593
+D W M,23478,"Sibanda, Thembinkosi",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44593
+D W M,23480,"Chidiebere, Nwarueze",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44593
+D W M,23481,"Cocombile, Alpha",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44593
+D W M,23482,"Zeb, Ahmad",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44593
+D W M,23483,"Muswere, Ellen",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44593
+D W M,23487,"Mutsvagiwa, Bernadette",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44593
+D W M,23488,"Marecha, Wendy",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44593
+D W M,23493,"Macauley, Saviour",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44593
+D W M,23495,"Kwizera, Leon",,9:00 AM,5:00 PM,8:00,--:--,--:--,44593
+D W M,23497,"Froeliger, Lucas",,10:00 AM,6:00 PM,8:00,--:--,--:--,44593
+D W M,23744,"Yenesew, Betelhem",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44593
+D W M,23747,"Krasavin, Georgy",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44593
+D W M,23748,"Asrat, Hermela",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44593
+D W M,23749,"Matarutse, Hope",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44593
+D W M,23750,"Gwata, Joyce",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44593
+D W M,23753,"Kuchinani, Lynmary",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44593
+D W M,23754,"Zimai, Michelle",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44593
+D W M,23760,"Ndihagule, Saida",,4:00 PM,12:00 AM,8:00,--:--,--:--,44593
+D W M,23761,"Hadi, Sayed",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44593
+D W M,23762,"Mathias, Shanice",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44593
+D W M,23764,"Chinhondo, Venesa",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44593
+D W M,23765,"SINGH, YUVARAJ",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44593
+D W M,24345,"Wudu, Dagmawi",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44593
+D W M,24346,"Ndlovu, Cynthia",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44593
+D W M,24348,"Rufaro, Paidamoyo",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44593
+D W M,24349,"Blair, Salumu",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44593
+D W M,24355,"Mungarevani, Lisa",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44593
+D W M,24357,"Sebhatu, Michael",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44593
+D W M,24358,"Endi, Teta",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44593
+D W M,24493,"Chibindi, Mark",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44593
+D W M,24494,"Dube, Nobukhosi",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44593
+D W M,24495,"Yakubu, Adedeji",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44593
+D W M,24496,"Selemani, Said",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44593
+D W M,24499,"Sanyika, Tiwayi",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44593
+D W M,24500,"Umoh, Henrietta",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44593
+D W M,24502,"Guliev, Elvin",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44593
+D W M,24503,"Gakii, Bridget",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44593
+D W M,24505,"Kashkaeva, Zhibek",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44593
+D W M,24506,"Eze, Joseph",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44593
+D W M,24507,"Meshesha, Fitsum",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44593
+D W M,24508,"Muleta, Abel",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44593
+D W M,24511,"Moyo, Chipo",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44593
+D W M,24512,"Shumba, Gamuchirai",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44593
+D W M,24513,"Aina, Oluwatoroti",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44593
+D W M,24514,"Bhadra, Rohan",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44593
+D W M,24515,"Roy, Anuradha",,3:00 PM,11:00 PM,8:00,5:00 PM,5:10 PM,44593
+D W M,24516,"Ogbonnaya, Emmanuel",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44593
+D W M,24517,"Akanbi, Jeremiah",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44593
+D W M,24901,"Aniegbuna, Bruno",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44593
+D W M,24902,"Barczewski, Bogusz",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44593
+D W M,24903,"Hunin, Danil",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44593
+D W M,24904,"Svirydzenka, Ulyana",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44593
+D W M,24905,"Ogwu, Abel",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44593
+D W M,24906,"Szurzynski, Adam",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44593
+D W M,24908,"Udeh, Chinemelum",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44593
+D W M,24909,"Bature, Keziah",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44593
+D W M,24910,"Ahmed, Khalid",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44593
+D W M,25153,"Subair, Mubarak",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44593
+D W M,25155,"Ali, Syed",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44593
+D W M,25156,"Tembo, Gugulethu",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44593
+D W M,25158,"Lata, Faya",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44593
+D W M,25159,"Worku, Sinedu",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44593
+D W M,25160,"Mugwambi, Kudakwashe",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44593
+D W M,25161,"Masiiwa, Chiedza",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44593
+D W M,25162,"Lemma, Dagmawi",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44593
+D W M,25163,"Sengupta, Arghya",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44593
+D W M,25164,"Esohe, Asubaja",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44593
+D W M,25165,"Ndlovu, Kim",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44593
+D W M,25166,"Okpachui, David",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44593
+D W M,25167,"Mapuranga, Takunda",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44593
+D W M,25168,"Matambudzo, Florence",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44593
+D W M,25169,"Ikogwe, Arthur",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44593
+D W M,25170,"Mpofu, Greatjoy",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44593
+D W M,25171,"Fernando, Witharanage",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44593
+D W M,25174,"Ismayilzada, Nijat",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44593
+D W M,25176,"Dadhich, Ridhi",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44593
+D W M,25177,"Samkyi, Michael",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44593
+D W M,25178,"Girma, Mekuria",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44593
+D W M,25180,"Ndikubwimana, Rosine",,9:00 AM,5:00 PM,8:00,11:00 AM,11:10 AM,44593
+D W M,25181,"Deborah, Gakumba",,9:00 AM,1:00 AM,16:00,11:15 AM,11:25 AM,44593
+D W M,25380,"Kurama, Pius",,4:00 PM,12:00 AM,8:00,5:30 PM,5:40 PM,44593
+D W M,25494,"Fisseha, Helen",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44593
+D W M,25496,"Gete, Mahder",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44593
+D W M,25497,"Mungure, Ivy",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44593
+D W M,25499,"Shukurlu, Javad",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44593
+D W M,25501,"Gerresilassie, Kaleab",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44593
+D W M,25504,"Sinniamourd, Wallace",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44593
+D W M,25811,"Nenharira, Prosper",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44593
+D W M,25812,"Willemse, Ravinaldo",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44593
+D W M,25813,"Abebe, Yustina",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44593
+D W M,25814,"Qatipi, Frensi",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44593
+D W M,25815,"KEVINE, Sinzihara",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44593
+D W M,25816,"Tafirenyika, Desmond",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44593
+D W M,25818,"Barth-obi, Claribel",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44593
+D W M,25819,"Inyang, Jesam",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44593
+D W M,25821,"NKUSI, BENOIT",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44593
+D W M,25822,"Umarbakiev, Asomiddin",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44593
+D W M,25823,"Ezennaka, Valentine",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44593
+D W M,25824,"Assfha, Blen",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44593
+D W M,25825,"Moyo, Mduduzi",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44593
+D W M,25827,"Foxx, Mickel",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44593
+D W M,25828,"Tamiru, Kidist",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44593
+D W M,25829,"Tshuma, Nobandile",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44593
+D W M,25830,"Nyathi, Methembe",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44593
+D W M,25831,"Difabachew, Mebea",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44593
+D W M,25832,"Zenabu, Mikias",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44593
+D W M,25833,"Zimondi, Bertha",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44593
+D W M,25834,"Opara, Angela",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44593
+D W M,25835,"Alemayehu, Amanuel",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44593
+D W M,25838,"Tabaruka, Alexandre",,9:00 AM,5:00 PM,8:00,11:00 AM,11:10 AM,44593
+D W M,26630,"Robera, Benti",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44593
+D W M,26631,"Salem, Mahmoud",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44593
+D W M,26636,"Mudyiradima, Tanyaradzwa",,3:00 PM,11:00 PM,8:00,--:--,--:--,44593
+D W M,26638,"Chitaka, Tinashe",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44593
+D W M,26639,"Tibebe, Natnael",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44593
+D W M,26644,"Stec, Sandra",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44593
+D W M,26645,"Abebe, Fitsum",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44593
+D W M,26646,"Simeneh, Abel",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44593
+D W M,26647,"Baheru, Yeabsira",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44593
+D W M,26648,"Alemayehu, Bezawit",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44593
+D W M,26649,"Eze, Nnamdi",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44593
+D W M,26650,"Krishna, Athul",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44593
+D W M,26651,"Mataranyika, Dorothy",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44593
+D W M,26652,"Sibanda, Princess",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44593
+D W M,26655,"Nxele, Andile",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44593
+D W M,26656,"Ogbolu, Ijeoma",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44593
+D W M,26657,"Achareke, Chinedu",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44593
+D W M,26658,"Christabelle, Umulisa",,10:00 AM,6:00 PM,8:00,--:--,--:--,44593
+D W M,26659,"Francky, Igihozo",,10:00 AM,6:00 PM,8:00,--:--,--:--,44593
+D W M,26660,"Ngesonziza, Hafsana",,10:00 AM,6:00 PM,8:00,--:--,--:--,44593
+D W M,26662,"Kanwitonze, Bruce",,10:00 AM,6:00 PM,8:00,--:--,--:--,44593
+D W M,26663,"Ayak, Junior",,10:00 AM,6:00 PM,8:00,--:--,--:--,44593
+D W M,26909,"Aliyeva, Ulduza",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44593
+D W M,27252,"Tesema, Arsema",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44593
+D W M,27253,"Khalifa, ibrahim",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44593
+D W M,27254,"Nanda, Muteguza",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44593
+D W M,27255,"Naffaa, Mohamad",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44593
+D W M,27256,"Molla, Kidist",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44593
+D W M,27257,"Tesfay, Asfaw",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44593
+D W M,27260,"Lachheb, Omar",,4:00 PM,12:00 AM,8:00,5:35 PM,5:45 PM,44593
+D W M,27463,"Semu, Yordanos",,3:00 PM,11:00 PM,8:00,4:20 PM,4:30 PM,44593
+D W M,27464,"Hadgu, Yohannes",,5:00 PM,1:00 AM,8:00,6:30 PM,6:40 PM,44593
+D W M,27465,"Berhane, Yohanna",,6:00 PM,2:00 AM,8:00,7:45 PM,7:55 PM,44593
+D W M,27466,"Mijena, Firaol",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44593
+D W M,27469,"Berhe, Bethelhem",,4:00 PM,12:00 AM,8:00,5:45 PM,5:55 PM,44593
+D W M,27470,"Assad, Dunia",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44593
+D W M,27472,"Hasan, Rakibul",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44593
+D W M,27474,"Moyo, Precious",,3:00 PM,11:00 PM,8:00,5:00 PM,5:10 PM,44593
+D W M,27478,"Spektor, Daniel",,4:30 PM,12:30 AM,8:00,6:15 PM,6:25 PM,44593
+D W M,27641,"Payne, Johnson",,7:00 PM,3:00 AM,8:00,9:05 PM,9:15 PM,44593
+D W M,27642,"Akinola, Ayodeji",,7:00 PM,3:00 AM,8:00,9:05 PM,9:15 PM,44593
+D W M,27643,"SALAMI, RAHMAN",,4:00 PM,12:00 AM,8:00,5:30 PM,5:40 PM,44593
+D W M,27644,"Mathew, Sonu",,3:00 PM,11:00 PM,8:00,4:50 PM,5:00 PM,44593
+D W M,27646,"Makhmudova, Sakina",,3:00 PM,11:00 PM,8:00,4:50 PM,5:00 PM,44593
+D W M,27647,"Tadesse, Ephrem",,7:00 PM,3:00 AM,8:00,9:05 PM,9:15 PM,44593
+D W M,27648,"UZOGARA, GEORGE",,7:00 PM,3:00 AM,8:00,9:05 PM,9:15 PM,44593
+D W M,27649,"SAKA, JOHNSON",,3:00 PM,11:00 PM,8:00,4:50 PM,5:00 PM,44593
+D W M,27650,"Machaka, Leon",,7:00 PM,3:00 AM,8:00,9:05 PM,9:15 PM,44593
+D W M,27929,"Uwiman, Claudine",,3:00 PM,11:00 PM,8:00,--:--,--:--,44593
+D W M,13832,"Skupniewska, Alina",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44594
+D W M,14512,"Chewe, Afomia",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44594
+D W M,14524,"McDermott, Thomas",,--:--,--:--,--:--,--:--,--:--,44594
+D W M,14525,"Dushenko, Ilya",,7:00 AM,3:00 PM,8:00,9:00 AM,9:10 AM,44594
+D W M,14531,"Basiisa, Ian",,7:00 AM,3:00 PM,8:00,9:05 AM,9:15 AM,44594
+D W M,14532,"Chukwu, Ihuoma",,--:--,--:--,--:--,--:--,--:--,44594
+D W M,15197,"Wendmeagegnhu, Hana",,2:00 AM,10:00 AM,8:00,3:35 AM,3:45 AM,44594
+D W M,15199,"Khalilov, Zham",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44594
+D W M,15203,"Momberume, Clemence",,3:00 PM,11:00 PM,8:00,5:00 PM,5:10 PM,44594
+D W M,15209,"Kaondera, Paidamoyo",,7:00 PM,3:00 AM,8:00,8:45 PM,8:55 PM,44594
+D W M,15215,"Orion Belachew, Elias",,2:00 AM,10:00 AM,8:00,3:45 AM,3:55 AM,44594
+D W M,15223,"Balcha, Dagim",,2:00 AM,10:00 AM,8:00,4:00 AM,4:10 AM,44594
+D W M,16004,"Matinde, Miriam",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44594
+D W M,16388,"Chikovo, Belinda",,10:00 AM,6:00 PM,8:00,--:--,--:--,44594
+D W M,16391,"Zaranyika, Chantelle",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44594
+D W M,16393,"Onions, Colin",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44594
+D W M,16394,"Ntini, Dumile",,7:00 PM,3:00 AM,8:00,8:20 PM,8:30 PM,44594
+D W M,16397,"Gebre, Ezana",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44594
+D W M,16404,"Negassa, Kaleb",,--:--,--:--,--:--,--:--,--:--,44594
+D W M,16411,"Nnamani, Nelson",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44594
+D W M,16418,"Odobo, Donald",,7:00 AM,3:00 PM,8:00,--:--,--:--,44594
+D W M,17402,"Ingabire, Solange",,5:00 PM,9:00 PM,4:00,6:15 PM,6:25 PM,44594
+D W M,17957,"Kalonje, Albertina",,7:00 AM,3:00 PM,8:00,8:45 AM,8:55 AM,44594
+D W M,17958,"Dzenge, Alice",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44594
+D W M,17962,"Phiri, Alison",,8:00 PM,4:00 AM,8:00,9:30 PM,9:40 PM,44594
+D W M,17963,"Nyirahuku, Anais",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44594
+D W M,17966,"Okoror, Courage",,--:--,--:--,--:--,--:--,--:--,44594
+D W M,17967,"Uwase, Diwine",,1:00 AM,9:00 AM,8:00,2:30 AM,2:40 AM,44594
+D W M,17968,"Macudo, Djath",,8:00 PM,4:00 AM,8:00,9:30 PM,9:40 PM,44594
+D W M,17969,"Muzire, Enock",,8:00 PM,4:00 AM,8:00,9:45 PM,9:55 PM,44594
+D W M,17973,"Kativu, Karen",,7:00 AM,3:00 PM,8:00,8:45 AM,8:55 AM,44594
+D W M,17974,"Iriza, Kessy",,5:00 PM,1:00 AM,8:00,7:00 PM,7:10 PM,44594
+D W M,17978,"Rajabov, Mukhsinbek",,--:--,--:--,--:--,--:--,--:--,44594
+D W M,17979,"Ivana, Munezero",,5:00 PM,1:00 AM,8:00,7:15 PM,7:25 PM,44594
+D W M,18002,"Aphiri, Shungidza",,2:00 AM,10:00 AM,8:00,4:10 AM,4:20 AM,44594
+D W M,18004,"Tsegaye, Tigist",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44594
+D W M,19935,"Azizillayev, Azizbek",,5:00 PM,1:00 AM,8:00,6:30 PM,6:40 PM,44594
+D W M,19937,"Bvunza, Benjamin",,6:00 PM,2:00 AM,8:00,7:30 PM,7:40 PM,44594
+D W M,19939,"Fekade, Biruk",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44594
+D W M,19940,"Ncube, Celesta",,9:00 PM,3:00 AM,6:00,11:15 PM,11:25 PM,44594
+D W M,19943,"Shimles Feleke, Christina",,5:00 PM,1:00 AM,8:00,6:30 PM,6:40 PM,44594
+D W M,19944,"Nigusu Kebede, Eyosiyas",,4:00 PM,12:00 AM,8:00,5:30 PM,5:40 PM,44594
+D W M,19945,"Kaseke, Hazvineyi",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44594
+D W M,19947,"Kawadza, Loreen",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44594
+D W M,19948,"Kwenje, Melisa Michelle",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44594
+D W M,19949,"Horonga, Ngonidzashe Sean",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44594
+D W M,19950,"Nunu, Nonceba Yvonne",,4:00 PM,12:00 AM,8:00,5:30 PM,5:40 PM,44594
+D W M,19951,"Alijonovich Saidov, Parviz",,5:00 PM,1:00 AM,8:00,6:30 PM,6:40 PM,44594
+D W M,19952,"Udochi Okorie, Peace",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44594
+D W M,19953,"Mardonbek, Rakhmatjonov",,5:00 PM,1:00 AM,8:00,6:30 PM,6:40 PM,44594
+D W M,19954,"Kaseke, Ronald Elias",,5:00 PM,1:00 AM,8:00,6:30 PM,6:40 PM,44594
+D W M,19955,"Naci Güler, Samet",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44594
+D W M,19956,"Ngara, Tanaka Peter",,4:00 PM,12:00 AM,8:00,5:30 PM,5:40 PM,44594
+D W M,19958,"Tadesse, Yanet Michael",,6:00 PM,2:00 AM,8:00,7:30 PM,7:40 PM,44594
+D W M,19959,"Abera, Zekarias",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44594
+D W M,20316,"Kebede, Bamlack",,4:00 PM,12:00 AM,8:00,5:30 PM,5:40 PM,44594
+D W M,20317,"Teffera, Bantalem",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44594
+D W M,20318,"Amadasun, Ehiosumwen",,4:00 PM,12:00 AM,8:00,--:--,--:--,44594
+D W M,20319,"Kalu, Favour",,--:--,--:--,--:--,--:--,--:--,44594
+D W M,20321,"Asres, Hilina",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44594
+D W M,20322,"Wolde, Hiwot",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44594
+D W M,20324,"Nishonov, Kudratbek",,4:00 PM,12:00 AM,8:00,5:30 PM,5:40 PM,44594
+D W M,20327,"Dennis, Michael",,6:00 PM,2:00 AM,8:00,7:30 PM,7:40 PM,44594
+D W M,20330,"Murengami, Samantha",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44594
+D W M,20331,"Yeneneh, Samuel",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44594
+D W M,20335,"Mrosso, Vanessa",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44594
+D W M,20337,"Lemma, Yonas",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44594
+D W M,20963,"Maplanka, Bongani",,6:00 PM,2:00 AM,8:00,7:30 PM,7:40 PM,44594
+D W M,20965,"Chimedza, Courtney",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44594
+D W M,20972,"Ma³yszko, Mateusz",,6:00 PM,2:00 AM,8:00,7:30 PM,7:40 PM,44594
+D W M,20973,"Lapko, Michal",,4:00 PM,12:00 AM,8:00,5:30 PM,5:40 PM,44594
+D W M,20978,"Acheampong, Paul",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44594
+D W M,21142,"Roxshan, Anthony",,3:00 PM,11:00 PM,8:00,5:00 PM,5:10 PM,44594
+D W M,21143,"Numonov, Boymurod",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44594
+D W M,21144,"Tawanda Charuma, Christopher",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44594
+D W M,21146,"Gofur Murodova, Dilnoza",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44594
+D W M,21147,"Manjengwa, Francis",,4:00 PM,12:00 AM,8:00,5:30 PM,5:40 PM,44594
+D W M,21150,"Zondesa, Ndangariro",,7:00 PM,4:00 AM,9:00,9:15 PM,9:25 PM,44594
+D W M,21151,"Cleto Dube, Panashe",,6:00 PM,2:00 AM,8:00,7:30 PM,7:40 PM,44594
+D W M,21152,"Abosede Ogundele, Rafiat",,4:00 PM,12:00 AM,8:00,5:30 PM,5:40 PM,44594
+D W M,21153,"Kassa, Ruth",,6:00 PM,2:00 AM,8:00,7:30 PM,7:40 PM,44594
+D W M,21156,"Tonderai Chaitezvi , Tanyaradzwa",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44594
+D W M,21157,"Solomon Dabi, Nathanael",,7:00 PM,3:00 AM,8:00,8:45 PM,8:55 PM,44594
+D W M,21159,"Peiris, Thiththala",,3:00 PM,11:00 PM,8:00,5:00 PM,5:10 PM,44594
+D W M,21160,"Mashababe, Tinashe",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44594
+D W M,21162,"Berwa Fiona, Umulisa",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44594
+D W M,21163,"Rwubuzizi Stephane, Shema",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44594
+D W M,21164,"Latifa Cindy, Kamikazi",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44594
+D W M,21165,"Rangira, Egide",,7:00 PM,3:00 AM,8:00,8:45 PM,8:55 PM,44594
+D W M,21166,"Keza Rwubuzizi, Sarah",,3:00 PM,11:00 PM,8:00,5:00 PM,5:10 PM,44594
+D W M,21580,"Demilew, Haymanot",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44594
+D W M,21582,"Rompa, Jakub",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44594
+D W M,21584,"Meta, Kaleb",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44594
+D W M,21586,"Woldesemayat, Tsion",,4:00 PM,12:00 AM,8:00,5:30 PM,5:40 PM,44594
+D W M,21587,"Ikem, Samuel",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44594
+D W M,21588,"Aimable, Mugabo",,4:00 PM,12:00 AM,8:00,5:30 PM,5:40 PM,44594
+D W M,21589,"Asebot, Hanna",,4:00 PM,12:00 AM,8:00,5:30 PM,5:40 PM,44594
+D W M,21590,"Oladipo, Dare",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44594
+D W M,21591,"Tapiwanashe, Samuriwo",,4:00 PM,12:00 AM,8:00,5:30 PM,5:40 PM,44594
+D W M,21592,"Awoyale, Ayorinde",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44594
+D W M,21600,"Kopotsha, Fezile",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44594
+D W M,21603,"Inema, Sandrine",,4:00 PM,12:00 AM,8:00,5:45 PM,5:55 PM,44594
+D W M,21827,"Willis, Casandra",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44594
+D W M,21829,"Gelaw, Betelhem",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44594
+D W M,21831,"Jemal, Elham",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44594
+D W M,21832,"Saidshoeva, Mastona",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44594
+D W M,21833,"Mushonga, Shamiso",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44594
+D W M,21838,"My Thuy, Uyen",,6:00 PM,2:00 AM,8:00,7:30 PM,7:40 PM,44594
+D W M,21839,"Lyna, Kaliza",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44594
+D W M,21841,"Tadesse, Ruth",,6:00 PM,2:00 AM,8:00,7:45 PM,7:55 PM,44594
+D W M,21842,"Shiferaw, Mieraf",,6:00 PM,2:00 AM,8:00,7:45 PM,7:55 PM,44594
+D W M,21843,"Chaukura, Devaughn",,6:00 PM,2:00 AM,8:00,7:45 PM,7:55 PM,44594
+D W M,21844,"Fassan, Peter",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44594
+D W M,21845,"Gumbi, Tatenda",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44594
+D W M,21847,"Kayabo, Hugues",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44594
+D W M,21848,"Emgoue, Adrienne",,5:00 PM,1:00 AM,8:00,7:00 PM,7:10 PM,44594
+D W M,21849,"Leveille, Chelsea",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44594
+D W M,21850,"Irankunda, Maurelle",,1:00 AM,9:00 AM,8:00,3:00 AM,3:10 AM,44594
+D W M,21851,"Igiraneza, Ange",,1:00 AM,9:00 AM,8:00,3:00 AM,3:10 AM,44594
+D W M,21852,"Avemariya, Toussaint",,1:00 AM,9:00 AM,8:00,3:20 AM,3:30 AM,44594
+D W M,21853,"Tonodele, Nathan",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44594
+D W M,21854,"Karangwa, Uwase",,9:00 AM,5:00 PM,8:00,10:45 AM,10:55 AM,44594
+D W M,21856,"Nsengiyumva, Lolita",,9:00 PM,1:00 AM,4:00,10:15 PM,10:25 PM,44594
+D W M,21857,"Ntwali, Daniel",,9:00 AM,5:00 PM,8:00,10:45 AM,10:55 AM,44594
+D W M,22655,"Mtui, Victor",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44594
+D W M,22656,"Chimedza, Rumbidzai",,6:00 PM,2:00 AM,8:00,7:45 PM,7:55 PM,44594
+D W M,22657,"Mhondoro, Faith",,6:00 PM,2:00 AM,8:00,7:45 PM,7:55 PM,44594
+D W M,22659,"Elayidath, Devika",,6:00 PM,2:00 AM,8:00,7:45 PM,7:55 PM,44594
+D W M,22661,"Sen, Ashok",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44594
+D W M,22662,"Dube, Lee-Roy",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44594
+D W M,22663,"Abdusalomov, Okhunjon",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44594
+D W M,22665,"Rinomhota, Dexter",,7:00 PM,3:00 AM,8:00,8:45 PM,8:55 PM,44594
+D W M,22666,"Masiri, Tatenda",,6:00 PM,2:00 AM,8:00,7:45 PM,7:55 PM,44594
+D W M,22667,"Kodohu, Bridgit",,6:00 PM,2:00 AM,8:00,7:45 PM,7:55 PM,44594
+D W M,22668,"Murodova, Sadokat",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44594
+D W M,22669,"Musana, Dylan",,7:00 PM,3:00 AM,8:00,8:45 PM,8:55 PM,44594
+D W M,22670,"Abayomi, Samuel",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44594
+D W M,22671,"Kunda, Naomi",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44594
+D W M,22672,"Ayalew, Baltazar",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44594
+D W M,22673,"Kaze, Tanguy",,7:00 PM,3:00 AM,8:00,8:45 PM,8:55 PM,44594
+D W M,22674,"Henry, Uwimana",,7:00 PM,3:00 AM,8:00,8:45 PM,8:55 PM,44594
+D W M,22675,"Ngarambe, Christine",,9:00 AM,5:00 PM,8:00,11:00 AM,11:10 AM,44594
+D W M,22677,"Ouchkif, Noussair",,9:00 AM,5:00 PM,8:00,10:15 AM,10:25 AM,44594
+D W M,22678,"Ishimwe, Alice",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44594
+D W M,22680,"Rwigema, Gisa",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44594
+D W M,22957,"Bekele, Yohans",,4:00 PM,12:00 AM,8:00,5:45 PM,5:55 PM,44594
+D W M,22962,"Kodhwata, Tafaranashe",,4:00 PM,12:00 AM,8:00,5:45 PM,5:55 PM,44594
+D W M,22963,"Abdulnabi, Abdulrazaak",,4:00 PM,12:00 AM,8:00,5:45 PM,5:55 PM,44594
+D W M,22964,"Shoniwa, Tafadzwa",,6:00 PM,2:00 AM,8:00,7:45 PM,7:55 PM,44594
+D W M,22971,"Nshimyumuremyi, Alain",,4:00 PM,12:00 AM,8:00,5:45 PM,5:55 PM,44594
+D W M,22972,"Mohammed, Abimael",,4:00 PM,12:00 AM,8:00,5:45 PM,5:55 PM,44594
+D W M,23182,"Habonimana, John",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44594
+D W M,23183,"Alain, Hagenimana",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44594
+D W M,23184,"Monestime, Marvens-Neerley",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44594
+D W M,23186,"Elmouden, Achraf",,9:00 AM,5:00 PM,8:00,10:30 AM,10:40 AM,44594
+D W M,23187,"Ourahali, Ayoub",,9:00 AM,5:00 PM,8:00,11:00 AM,11:10 AM,44594
+D W M,23188,"Manyumwa, Kundai",,4:00 PM,12:00 AM,8:00,5:45 PM,5:55 PM,44594
+D W M,23190,"Chinembiri, Tanaka",,4:00 PM,12:00 AM,8:00,5:45 PM,5:55 PM,44594
+D W M,23191,"Makarichi, Tinotenda",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44594
+D W M,23193,"Mtatiro, Rosemary",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44594
+D W M,23194,"Tursunov, Muhammadali",,4:00 PM,12:00 AM,8:00,5:45 PM,5:55 PM,44594
+D W M,23195,"belay, feven",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44594
+D W M,23196,"Mahiyev, Javidan",,4:00 PM,12:00 AM,8:00,5:45 PM,5:55 PM,44594
+D W M,23198,"Bouzid, Achraf",,3:00 PM,11:00 PM,8:00,--:--,--:--,44594
+D W M,23202,"Munyanduri, Nelson",,6:00 PM,2:00 AM,8:00,7:45 PM,7:55 PM,44594
+D W M,23204,"Abdu, Thaheba",,4:00 PM,12:00 AM,8:00,5:45 PM,5:55 PM,44594
+D W M,23206,"Masukume, Millicent",,4:00 PM,12:00 AM,8:00,5:45 PM,5:55 PM,44594
+D W M,23207,"OLUWATOYESE, EGBEJINMI",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44594
+D W M,23208,"Magweva, Russel",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44594
+D W M,23477,"Ndlovu, Thabani",,5:00 PM,1:00 AM,8:00,7:00 PM,7:10 PM,44594
+D W M,23478,"Sibanda, Thembinkosi",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44594
+D W M,23480,"Chidiebere, Nwarueze",,4:00 PM,12:00 AM,8:00,5:45 PM,5:55 PM,44594
+D W M,23481,"Cocombile, Alpha",,7:00 PM,3:00 AM,8:00,8:45 PM,8:55 PM,44594
+D W M,23482,"Zeb, Ahmad",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44594
+D W M,23483,"Muswere, Ellen",,5:00 PM,1:00 AM,8:00,7:00 PM,7:10 PM,44594
+D W M,23487,"Mutsvagiwa, Bernadette",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44594
+D W M,23488,"Marecha, Wendy",,5:00 PM,1:00 AM,8:00,7:00 PM,7:10 PM,44594
+D W M,23493,"Macauley, Saviour",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44594
+D W M,23495,"Kwizera, Leon",,9:00 AM,5:00 PM,8:00,10:30 AM,10:40 AM,44594
+D W M,23497,"Froeliger, Lucas",,10:00 AM,6:00 PM,8:00,--:--,--:--,44594
+D W M,23744,"Yenesew, Betelhem",,5:00 PM,1:00 AM,8:00,7:00 PM,7:10 PM,44594
+D W M,23747,"Krasavin, Georgy",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44594
+D W M,23748,"Asrat, Hermela",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44594
+D W M,23749,"Matarutse, Hope",,6:00 PM,2:00 AM,8:00,7:45 PM,7:55 PM,44594
+D W M,23750,"Gwata, Joyce",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44594
+D W M,23753,"Kuchinani, Lynmary",,5:00 PM,1:00 AM,8:00,7:00 PM,7:10 PM,44594
+D W M,23754,"Zimai, Michelle",,7:00 PM,3:00 AM,8:00,8:45 PM,8:55 PM,44594
+D W M,23760,"Ndihagule, Saida",,4:00 PM,12:00 AM,8:00,--:--,--:--,44594
+D W M,23761,"Hadi, Sayed",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44594
+D W M,23762,"Mathias, Shanice",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44594
+D W M,23764,"Chinhondo, Venesa",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44594
+D W M,23765,"SINGH, YUVARAJ",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44594
+D W M,24345,"Wudu, Dagmawi",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44594
+D W M,24346,"Ndlovu, Cynthia",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44594
+D W M,24348,"Rufaro, Paidamoyo",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44594
+D W M,24349,"Blair, Salumu",,7:00 PM,3:00 AM,8:00,8:45 PM,8:55 PM,44594
+D W M,24355,"Mungarevani, Lisa",,7:00 PM,3:00 AM,8:00,8:45 PM,8:55 PM,44594
+D W M,24357,"Sebhatu, Michael",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44594
+D W M,24358,"Endi, Teta",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44594
+D W M,24493,"Chibindi, Mark",,7:00 PM,3:00 AM,8:00,8:45 PM,8:55 PM,44594
+D W M,24494,"Dube, Nobukhosi",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44594
+D W M,24495,"Yakubu, Adedeji",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44594
+D W M,24496,"Selemani, Said",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44594
+D W M,24499,"Sanyika, Tiwayi",,5:00 PM,1:00 AM,8:00,7:00 PM,7:10 PM,44594
+D W M,24500,"Umoh, Henrietta",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44594
+D W M,24502,"Guliev, Elvin",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44594
+D W M,24503,"Gakii, Bridget",,7:00 PM,3:00 AM,8:00,8:45 PM,8:55 PM,44594
+D W M,24505,"Kashkaeva, Zhibek",,7:00 PM,3:00 AM,8:00,8:45 PM,8:55 PM,44594
+D W M,24506,"Eze, Joseph",,7:00 PM,3:00 AM,8:00,8:45 PM,8:55 PM,44594
+D W M,24507,"Meshesha, Fitsum",,5:00 PM,1:00 AM,8:00,7:00 PM,7:10 PM,44594
+D W M,24508,"Muleta, Abel",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44594
+D W M,24511,"Moyo, Chipo",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44594
+D W M,24512,"Shumba, Gamuchirai",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44594
+D W M,24513,"Aina, Oluwatoroti",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44594
+D W M,24514,"Bhadra, Rohan",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44594
+D W M,24515,"Roy, Anuradha",,3:00 PM,11:00 PM,8:00,5:00 PM,5:10 PM,44594
+D W M,24516,"Ogbonnaya, Emmanuel",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44594
+D W M,24517,"Akanbi, Jeremiah",,5:00 PM,1:00 AM,8:00,7:00 PM,7:10 PM,44594
+D W M,24901,"Aniegbuna, Bruno",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44594
+D W M,24902,"Barczewski, Bogusz",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44594
+D W M,24903,"Hunin, Danil",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44594
+D W M,24904,"Svirydzenka, Ulyana",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44594
+D W M,24905,"Ogwu, Abel",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44594
+D W M,24906,"Szurzynski, Adam",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44594
+D W M,24908,"Udeh, Chinemelum",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44594
+D W M,24909,"Bature, Keziah",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44594
+D W M,24910,"Ahmed, Khalid",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44594
+D W M,25153,"Subair, Mubarak",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44594
+D W M,25155,"Ali, Syed",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44594
+D W M,25156,"Tembo, Gugulethu",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44594
+D W M,25158,"Lata, Faya",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44594
+D W M,25159,"Worku, Sinedu",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44594
+D W M,25160,"Mugwambi, Kudakwashe",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44594
+D W M,25161,"Masiiwa, Chiedza",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44594
+D W M,25162,"Lemma, Dagmawi",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44594
+D W M,25163,"Sengupta, Arghya",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44594
+D W M,25164,"Esohe, Asubaja",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44594
+D W M,25165,"Ndlovu, Kim",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44594
+D W M,25166,"Okpachui, David",,5:00 PM,1:00 AM,8:00,7:00 PM,7:10 PM,44594
+D W M,25167,"Mapuranga, Takunda",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44594
+D W M,25168,"Matambudzo, Florence",,3:00 PM,11:00 PM,8:00,5:00 PM,5:10 PM,44594
+D W M,25169,"Ikogwe, Arthur",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44594
+D W M,25170,"Mpofu, Greatjoy",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44594
+D W M,25171,"Fernando, Witharanage",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44594
+D W M,25174,"Ismayilzada, Nijat",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44594
+D W M,25176,"Dadhich, Ridhi",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44594
+D W M,25177,"Samkyi, Michael",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44594
+D W M,25178,"Girma, Mekuria",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44594
+D W M,25180,"Ndikubwimana, Rosine",,9:00 AM,5:00 PM,8:00,10:45 AM,10:55 AM,44594
+D W M,25181,"Deborah, Gakumba",,5:00 PM,1:00 AM,8:00,7:20 PM,7:30 PM,44594
+D W M,25380,"Kurama, Pius",,4:00 PM,12:00 AM,8:00,5:45 PM,5:55 PM,44594
+D W M,25494,"Fisseha, Helen",,5:00 PM,1:00 AM,8:00,7:00 PM,7:10 PM,44594
+D W M,25496,"Gete, Mahder",,5:00 PM,1:00 AM,8:00,7:00 PM,7:10 PM,44594
+D W M,25497,"Mungure, Ivy",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44594
+D W M,25499,"Shukurlu, Javad",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44594
+D W M,25501,"Gerresilassie, Kaleab",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44594
+D W M,25504,"Sinniamourd, Wallace",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44594
+D W M,25811,"Nenharira, Prosper",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44594
+D W M,25812,"Willemse, Ravinaldo",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44594
+D W M,25813,"Abebe, Yustina",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44594
+D W M,25814,"Qatipi, Frensi",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44594
+D W M,25815,"KEVINE, Sinzihara",,6:00 PM,2:00 AM,8:00,7:30 PM,7:40 PM,44594
+D W M,25816,"Tafirenyika, Desmond",,6:00 PM,2:00 AM,8:00,7:45 PM,7:55 PM,44594
+D W M,25818,"Barth-obi, Claribel",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44594
+D W M,25819,"Inyang, Jesam",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44594
+D W M,25821,"NKUSI, BENOIT",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44594
+D W M,25822,"Umarbakiev, Asomiddin",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44594
+D W M,25823,"Ezennaka, Valentine",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44594
+D W M,25824,"Assfha, Blen",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44594
+D W M,25825,"Moyo, Mduduzi",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44594
+D W M,25827,"Foxx, Mickel",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44594
+D W M,25828,"Tamiru, Kidist",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44594
+D W M,25829,"Tshuma, Nobandile",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44594
+D W M,25830,"Nyathi, Methembe",,6:00 PM,2:00 AM,8:00,7:45 PM,7:55 PM,44594
+D W M,25831,"Difabachew, Mebea",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44594
+D W M,25832,"Zenabu, Mikias",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44594
+D W M,25833,"Zimondi, Bertha",,3:00 PM,11:00 PM,8:00,5:00 PM,5:10 PM,44594
+D W M,25834,"Opara, Angela",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44594
+D W M,25835,"Alemayehu, Amanuel",,7:00 PM,3:00 AM,8:00,8:45 PM,8:55 PM,44594
+D W M,25838,"Tabaruka, Alexandre",,9:00 AM,5:00 PM,8:00,11:30 AM,11:40 AM,44594
+D W M,26630,"Robera, Benti",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44594
+D W M,26631,"Salem, Mahmoud",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44594
+D W M,26636,"Mudyiradima, Tanyaradzwa",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44594
+D W M,26638,"Chitaka, Tinashe",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44594
+D W M,26639,"Tibebe, Natnael",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44594
+D W M,26644,"Stec, Sandra",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44594
+D W M,26645,"Abebe, Fitsum",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44594
+D W M,26646,"Simeneh, Abel",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44594
+D W M,26647,"Baheru, Yeabsira",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44594
+D W M,26648,"Alemayehu, Bezawit",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44594
+D W M,26649,"Eze, Nnamdi",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44594
+D W M,26650,"Krishna, Athul",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44594
+D W M,26651,"Mataranyika, Dorothy",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44594
+D W M,26652,"Sibanda, Princess",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44594
+D W M,26655,"Nxele, Andile",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44594
+D W M,26656,"Ogbolu, Ijeoma",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44594
+D W M,26657,"Achareke, Chinedu",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44594
+D W M,26658,"Christabelle, Umulisa",,10:00 AM,6:00 PM,8:00,--:--,--:--,44594
+D W M,26659,"Francky, Igihozo",,10:00 AM,6:00 PM,8:00,--:--,--:--,44594
+D W M,26660,"Ngesonziza, Hafsana",,10:00 AM,6:00 PM,8:00,--:--,--:--,44594
+D W M,26662,"Kanwitonze, Bruce",,10:00 AM,6:00 PM,8:00,--:--,--:--,44594
+D W M,26663,"Ayak, Junior",,10:00 AM,6:00 PM,8:00,--:--,--:--,44594
+D W M,26909,"Aliyeva, Ulduza",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44594
+D W M,27252,"Tesema, Arsema",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44594
+D W M,27253,"Khalifa, ibrahim",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44594
+D W M,27254,"Nanda, Muteguza",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44594
+D W M,27255,"Naffaa, Mohamad",,3:00 PM,11:00 PM,8:00,5:00 PM,5:10 PM,44594
+D W M,27256,"Molla, Kidist",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44594
+D W M,27257,"Tesfay, Asfaw",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44594
+D W M,27260,"Lachheb, Omar",,4:00 PM,12:00 AM,8:00,5:20 PM,5:30 PM,44594
+D W M,27463,"Semu, Yordanos",,3:00 PM,11:00 PM,8:00,4:20 PM,4:30 PM,44594
+D W M,27464,"Hadgu, Yohannes",,5:00 PM,1:00 AM,8:00,6:30 PM,6:40 PM,44594
+D W M,27465,"Berhane, Yohanna",,6:00 PM,2:00 AM,8:00,7:45 PM,7:55 PM,44594
+D W M,27466,"Mijena, Firaol",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44594
+D W M,27469,"Berhe, Bethelhem",,4:00 PM,12:00 AM,8:00,5:45 PM,5:55 PM,44594
+D W M,27470,"Assad, Dunia",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44594
+D W M,27472,"Hasan, Rakibul",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44594
+D W M,27474,"Moyo, Precious",,3:00 PM,11:00 PM,8:00,5:00 PM,5:10 PM,44594
+D W M,27478,"Spektor, Daniel",,4:30 PM,12:30 AM,8:00,6:15 PM,6:25 PM,44594
+D W M,27641,"Payne, Johnson",,7:00 PM,3:00 AM,8:00,8:50 PM,9:00 PM,44594
+D W M,27642,"Akinola, Ayodeji",,7:00 PM,3:00 AM,8:00,8:50 PM,9:00 PM,44594
+D W M,27643,"SALAMI, RAHMAN",,4:00 PM,12:00 AM,8:00,5:30 PM,5:40 PM,44594
+D W M,27644,"Mathew, Sonu",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44594
+D W M,27646,"Makhmudova, Sakina",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44594
+D W M,27647,"Tadesse, Ephrem",,7:00 PM,3:00 AM,8:00,8:50 PM,9:00 PM,44594
+D W M,27648,"UZOGARA, GEORGE",,7:00 PM,3:00 AM,8:00,8:50 PM,9:00 PM,44594
+D W M,27649,"SAKA, JOHNSON",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44594
+D W M,27650,"Machaka, Leon",,7:00 PM,3:00 AM,8:00,8:50 PM,9:00 PM,44594
+D W M,27929,"Uwiman, Claudine",,3:00 PM,11:00 PM,8:00,--:--,--:--,44594
+D W M,13832,"Skupniewska, Alina",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44595
+D W M,14512,"Chewe, Afomia",,6:00 PM,2:00 AM,8:00,8:20 PM,8:30 PM,44595
+D W M,14524,"McDermott, Thomas",,--:--,--:--,--:--,--:--,--:--,44595
+D W M,14525,"Dushenko, Ilya",,7:00 AM,3:00 PM,8:00,8:45 AM,8:55 AM,44595
+D W M,14531,"Basiisa, Ian",,7:00 AM,3:00 PM,8:00,9:05 AM,9:15 AM,44595
+D W M,14532,"Chukwu, Ihuoma",,6:00 PM,2:00 AM,8:00,7:50 PM,8:00 PM,44595
+D W M,15197,"Wendmeagegnhu, Hana",,2:00 AM,10:00 AM,8:00,3:35 AM,3:45 AM,44595
+D W M,15199,"Khalilov, Zham",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44595
+D W M,15203,"Momberume, Clemence",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44595
+D W M,15209,"Kaondera, Paidamoyo",,7:00 PM,3:00 AM,8:00,8:45 PM,8:55 PM,44595
+D W M,15215,"Orion Belachew, Elias",,2:00 AM,10:00 AM,8:00,3:45 AM,3:55 AM,44595
+D W M,15223,"Balcha, Dagim",,2:00 AM,10:00 AM,8:00,4:00 AM,4:10 AM,44595
+D W M,16004,"Matinde, Miriam",,--:--,--:--,--:--,--:--,--:--,44595
+D W M,16388,"Chikovo, Belinda",,10:00 AM,6:00 PM,8:00,--:--,--:--,44595
+D W M,16391,"Zaranyika, Chantelle",,4:00 PM,12:00 AM,8:00,6:30 PM,6:40 PM,44595
+D W M,16393,"Onions, Colin",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44595
+D W M,16394,"Ntini, Dumile",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44595
+D W M,16397,"Gebre, Ezana",,7:00 PM,3:00 AM,8:00,8:45 PM,8:55 PM,44595
+D W M,16404,"Negassa, Kaleb",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44595
+D W M,16411,"Nnamani, Nelson",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44595
+D W M,16418,"Odobo, Donald",,7:00 AM,3:00 PM,8:00,9:20 AM,9:30 AM,44595
+D W M,17402,"Ingabire, Solange",,5:00 PM,9:00 PM,4:00,6:15 PM,6:25 PM,44595
+D W M,17957,"Kalonje, Albertina",,7:00 AM,3:00 PM,8:00,8:30 AM,8:40 AM,44595
+D W M,17958,"Dzenge, Alice",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44595
+D W M,17962,"Phiri, Alison",,8:00 PM,4:00 AM,8:00,9:30 PM,9:40 PM,44595
+D W M,17963,"Nyirahuku, Anais",,5:00 PM,1:00 AM,8:00,6:30 PM,6:40 PM,44595
+D W M,17966,"Okoror, Courage",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,17967,"Uwase, Diwine",,1:00 AM,9:00 AM,8:00,2:45 AM,2:55 AM,44595
+D W M,17968,"Macudo, Djath",,8:00 PM,4:00 AM,8:00,10:00 PM,10:10 PM,44595
+D W M,17969,"Muzire, Enock",,8:00 PM,4:00 AM,8:00,10:20 PM,10:30 PM,44595
+D W M,17973,"Kativu, Karen",,--:--,--:--,--:--,--:--,--:--,44595
+D W M,17974,"Iriza, Kessy",,5:00 PM,1:00 AM,8:00,7:00 PM,7:10 PM,44595
+D W M,17978,"Rajabov, Mukhsinbek",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44595
+D W M,17979,"Ivana, Munezero",,5:00 PM,1:00 AM,8:00,7:20 PM,7:30 PM,44595
+D W M,18002,"Aphiri, Shungidza",,--:--,--:--,--:--,--:--,--:--,44595
+D W M,18004,"Tsegaye, Tigist",,--:--,--:--,--:--,--:--,--:--,44595
+D W M,19935,"Azizillayev, Azizbek",,5:00 PM,1:00 AM,8:00,6:30 PM,6:40 PM,44595
+D W M,19937,"Bvunza, Benjamin",,6:00 PM,2:00 AM,8:00,7:30 PM,7:40 PM,44595
+D W M,19939,"Fekade, Biruk",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44595
+D W M,19940,"Ncube, Celesta",,9:00 PM,3:00 AM,6:00,11:15 PM,11:25 PM,44595
+D W M,19943,"Shimles Feleke, Christina",,5:00 PM,1:00 AM,8:00,6:30 PM,6:40 PM,44595
+D W M,19944,"Nigusu Kebede, Eyosiyas",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,19945,"Kaseke, Hazvineyi",,7:00 PM,3:00 AM,8:00,8:45 PM,8:55 PM,44595
+D W M,19947,"Kawadza, Loreen",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44595
+D W M,19948,"Kwenje, Melisa Michelle",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44595
+D W M,19949,"Horonga, Ngonidzashe Sean",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44595
+D W M,19950,"Nunu, Nonceba Yvonne",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,19951,"Alijonovich Saidov, Parviz",,5:00 PM,1:00 AM,8:00,6:30 PM,6:40 PM,44595
+D W M,19952,"Udochi Okorie, Peace",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44595
+D W M,19953,"Mardonbek, Rakhmatjonov",,5:00 PM,1:00 AM,8:00,6:30 PM,6:40 PM,44595
+D W M,19954,"Kaseke, Ronald Elias",,5:00 PM,1:00 AM,8:00,6:30 PM,6:40 PM,44595
+D W M,19955,"Naci Güler, Samet",,5:00 PM,1:00 AM,8:00,6:30 PM,6:40 PM,44595
+D W M,19956,"Ngara, Tanaka Peter",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,19958,"Tadesse, Yanet Michael",,6:00 PM,2:00 AM,8:00,7:30 PM,7:40 PM,44595
+D W M,19959,"Abera, Zekarias",,5:00 PM,1:00 AM,8:00,6:30 PM,6:40 PM,44595
+D W M,20316,"Kebede, Bamlack",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,20317,"Teffera, Bantalem",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44595
+D W M,20318,"Amadasun, Ehiosumwen",,4:00 PM,12:00 AM,8:00,--:--,--:--,44595
+D W M,20319,"Kalu, Favour",,--:--,--:--,--:--,--:--,--:--,44595
+D W M,20321,"Asres, Hilina",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44595
+D W M,20322,"Wolde, Hiwot",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44595
+D W M,20324,"Nishonov, Kudratbek",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,20327,"Dennis, Michael",,6:00 PM,2:00 AM,8:00,7:30 PM,7:40 PM,44595
+D W M,20330,"Murengami, Samantha",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44595
+D W M,20331,"Yeneneh, Samuel",,5:00 PM,1:00 AM,8:00,7:00 PM,7:10 PM,44595
+D W M,20335,"Mrosso, Vanessa",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44595
+D W M,20337,"Lemma, Yonas",,5:00 PM,1:00 AM,8:00,6:30 PM,6:40 PM,44595
+D W M,20963,"Maplanka, Bongani",,6:00 PM,2:00 AM,8:00,7:30 PM,7:40 PM,44595
+D W M,20965,"Chimedza, Courtney",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44595
+D W M,20972,"Ma³yszko, Mateusz",,6:00 PM,2:00 AM,8:00,7:30 PM,7:40 PM,44595
+D W M,20973,"Lapko, Michal",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,20978,"Acheampong, Paul",,5:00 PM,1:00 AM,8:00,6:30 PM,6:40 PM,44595
+D W M,21142,"Roxshan, Anthony",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44595
+D W M,21143,"Numonov, Boymurod",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44595
+D W M,21144,"Tawanda Charuma, Christopher",,5:00 PM,1:00 AM,8:00,6:30 PM,6:40 PM,44595
+D W M,21146,"Gofur Murodova, Dilnoza",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44595
+D W M,21147,"Manjengwa, Francis",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,21150,"Zondesa, Ndangariro",,7:00 PM,4:00 AM,9:00,9:00 PM,9:10 PM,44595
+D W M,21151,"Cleto Dube, Panashe",,6:00 PM,2:00 AM,8:00,7:45 PM,7:55 PM,44595
+D W M,21152,"Abosede Ogundele, Rafiat",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,21153,"Kassa, Ruth",,6:00 PM,2:00 AM,8:00,7:45 PM,7:55 PM,44595
+D W M,21156,"Tonderai Chaitezvi , Tanyaradzwa",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44595
+D W M,21157,"Solomon Dabi, Nathanael",,7:00 PM,3:00 AM,8:00,9:20 PM,9:30 PM,44595
+D W M,21159,"Peiris, Thiththala",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44595
+D W M,21160,"Mashababe, Tinashe",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44595
+D W M,21162,"Berwa Fiona, Umulisa",,7:00 PM,3:00 AM,8:00,8:45 PM,8:55 PM,44595
+D W M,21163,"Rwubuzizi Stephane, Shema",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,21164,"Latifa Cindy, Kamikazi",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44595
+D W M,21165,"Rangira, Egide",,7:00 PM,3:00 AM,8:00,8:45 PM,8:55 PM,44595
+D W M,21166,"Keza Rwubuzizi, Sarah",,3:00 PM,11:00 PM,8:00,5:00 PM,5:10 PM,44595
+D W M,21580,"Demilew, Haymanot",,5:00 PM,1:00 AM,8:00,6:30 PM,6:40 PM,44595
+D W M,21582,"Rompa, Jakub",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44595
+D W M,21584,"Meta, Kaleb",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44595
+D W M,21586,"Woldesemayat, Tsion",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,21587,"Ikem, Samuel",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44595
+D W M,21588,"Aimable, Mugabo",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,21589,"Asebot, Hanna",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,21590,"Oladipo, Dare",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44595
+D W M,21591,"Tapiwanashe, Samuriwo",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,21592,"Awoyale, Ayorinde",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44595
+D W M,21600,"Kopotsha, Fezile",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44595
+D W M,21603,"Inema, Sandrine",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,21827,"Willis, Casandra",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44595
+D W M,21829,"Gelaw, Betelhem",,5:00 PM,1:00 AM,8:00,6:30 PM,6:40 PM,44595
+D W M,21831,"Jemal, Elham",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44595
+D W M,21832,"Saidshoeva, Mastona",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44595
+D W M,21833,"Mushonga, Shamiso",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44595
+D W M,21838,"My Thuy, Uyen",,6:00 PM,2:00 AM,8:00,7:45 PM,7:55 PM,44595
+D W M,21839,"Lyna, Kaliza",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44595
+D W M,21841,"Tadesse, Ruth",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44595
+D W M,21842,"Shiferaw, Mieraf",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44595
+D W M,21843,"Chaukura, Devaughn",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44595
+D W M,21844,"Fassan, Peter",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44595
+D W M,21845,"Gumbi, Tatenda",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44595
+D W M,21847,"Kayabo, Hugues",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,21848,"Emgoue, Adrienne",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44595
+D W M,21849,"Leveille, Chelsea",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44595
+D W M,21850,"Irankunda, Maurelle",,1:00 AM,9:00 AM,8:00,2:45 AM,2:55 AM,44595
+D W M,21851,"Igiraneza, Ange",,1:00 AM,9:00 AM,8:00,3:00 AM,3:10 AM,44595
+D W M,21852,"Avemariya, Toussaint",,1:00 AM,9:00 AM,8:00,3:20 AM,3:30 AM,44595
+D W M,21853,"Tonodele, Nathan",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44595
+D W M,21854,"Karangwa, Uwase",,9:00 AM,5:00 PM,8:00,10:15 AM,10:25 AM,44595
+D W M,21856,"Nsengiyumva, Lolita",,9:00 PM,1:00 AM,4:00,10:30 PM,10:40 PM,44595
+D W M,21857,"Ntwali, Daniel",,9:00 AM,5:00 PM,8:00,10:30 AM,10:40 AM,44595
+D W M,22655,"Mtui, Victor",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44595
+D W M,22656,"Chimedza, Rumbidzai",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44595
+D W M,22657,"Mhondoro, Faith",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44595
+D W M,22659,"Elayidath, Devika",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44595
+D W M,22661,"Sen, Ashok",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44595
+D W M,22662,"Dube, Lee-Roy",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44595
+D W M,22663,"Abdusalomov, Okhunjon",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44595
+D W M,22665,"Rinomhota, Dexter",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44595
+D W M,22666,"Masiri, Tatenda",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44595
+D W M,22667,"Kodohu, Bridgit",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44595
+D W M,22668,"Murodova, Sadokat",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44595
+D W M,22669,"Musana, Dylan",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44595
+D W M,22670,"Abayomi, Samuel",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44595
+D W M,22671,"Kunda, Naomi",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44595
+D W M,22672,"Ayalew, Baltazar",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44595
+D W M,22673,"Kaze, Tanguy",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44595
+D W M,22674,"Henry, Uwimana",,7:00 PM,3:00 AM,8:00,8:45 PM,8:55 PM,44595
+D W M,22675,"Ngarambe, Christine",,9:00 AM,5:00 PM,8:00,10:30 AM,10:40 AM,44595
+D W M,22677,"Ouchkif, Noussair",,9:00 AM,5:00 PM,8:00,10:45 AM,10:55 AM,44595
+D W M,22678,"Ishimwe, Alice",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44595
+D W M,22680,"Rwigema, Gisa",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44595
+D W M,22957,"Bekele, Yohans",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,22962,"Kodhwata, Tafaranashe",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,22963,"Abdulnabi, Abdulrazaak",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,22964,"Shoniwa, Tafadzwa",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44595
+D W M,22971,"Nshimyumuremyi, Alain",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,22972,"Mohammed, Abimael",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,23182,"Habonimana, John",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44595
+D W M,23183,"Alain, Hagenimana",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44595
+D W M,23184,"Monestime, Marvens-Neerley",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44595
+D W M,23186,"Elmouden, Achraf",,9:00 AM,5:00 PM,8:00,10:45 AM,10:55 AM,44595
+D W M,23187,"Ourahali, Ayoub",,9:00 AM,5:00 PM,8:00,10:45 AM,10:55 AM,44595
+D W M,23188,"Manyumwa, Kundai",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,23190,"Chinembiri, Tanaka",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,23191,"Makarichi, Tinotenda",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44595
+D W M,23193,"Mtatiro, Rosemary",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44595
+D W M,23194,"Tursunov, Muhammadali",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,23195,"belay, feven",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44595
+D W M,23196,"Mahiyev, Javidan",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,23198,"Bouzid, Achraf",,3:00 PM,11:00 PM,8:00,--:--,--:--,44595
+D W M,23202,"Munyanduri, Nelson",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44595
+D W M,23204,"Abdu, Thaheba",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,23206,"Masukume, Millicent",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,23207,"OLUWATOYESE, EGBEJINMI",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44595
+D W M,23208,"Magweva, Russel",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44595
+D W M,23477,"Ndlovu, Thabani",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44595
+D W M,23478,"Sibanda, Thembinkosi",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44595
+D W M,23480,"Chidiebere, Nwarueze",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,23481,"Cocombile, Alpha",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44595
+D W M,23482,"Zeb, Ahmad",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44595
+D W M,23483,"Muswere, Ellen",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44595
+D W M,23487,"Mutsvagiwa, Bernadette",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,23488,"Marecha, Wendy",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44595
+D W M,23493,"Macauley, Saviour",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,23495,"Kwizera, Leon",,9:00 AM,5:00 PM,8:00,11:00 AM,11:10 AM,44595
+D W M,23497,"Froeliger, Lucas",,10:00 AM,6:00 PM,8:00,--:--,--:--,44595
+D W M,23744,"Yenesew, Betelhem",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44595
+D W M,23747,"Krasavin, Georgy",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44595
+D W M,23748,"Asrat, Hermela",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,23749,"Matarutse, Hope",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44595
+D W M,23750,"Gwata, Joyce",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44595
+D W M,23753,"Kuchinani, Lynmary",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44595
+D W M,23754,"Zimai, Michelle",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44595
+D W M,23760,"Ndihagule, Saida",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,23761,"Hadi, Sayed",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,23762,"Mathias, Shanice",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,23764,"Chinhondo, Venesa",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44595
+D W M,23765,"SINGH, YUVARAJ",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44595
+D W M,24345,"Wudu, Dagmawi",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44595
+D W M,24346,"Ndlovu, Cynthia",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44595
+D W M,24348,"Rufaro, Paidamoyo",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44595
+D W M,24349,"Blair, Salumu",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44595
+D W M,24355,"Mungarevani, Lisa",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44595
+D W M,24357,"Sebhatu, Michael",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44595
+D W M,24358,"Endi, Teta",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,24493,"Chibindi, Mark",,7:00 PM,3:00 AM,8:00,8:45 PM,8:55 PM,44595
+D W M,24494,"Dube, Nobukhosi",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44595
+D W M,24495,"Yakubu, Adedeji",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44595
+D W M,24496,"Selemani, Said",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44595
+D W M,24499,"Sanyika, Tiwayi",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44595
+D W M,24500,"Umoh, Henrietta",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44595
+D W M,24502,"Guliev, Elvin",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44595
+D W M,24503,"Gakii, Bridget",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44595
+D W M,24505,"Kashkaeva, Zhibek",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44595
+D W M,24506,"Eze, Joseph",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44595
+D W M,24507,"Meshesha, Fitsum",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44595
+D W M,24508,"Muleta, Abel",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44595
+D W M,24511,"Moyo, Chipo",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44595
+D W M,24512,"Shumba, Gamuchirai",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44595
+D W M,24513,"Aina, Oluwatoroti",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,24514,"Bhadra, Rohan",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44595
+D W M,24515,"Roy, Anuradha",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44595
+D W M,24516,"Ogbonnaya, Emmanuel",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,24517,"Akanbi, Jeremiah",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44595
+D W M,24901,"Aniegbuna, Bruno",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,24902,"Barczewski, Bogusz",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44595
+D W M,24903,"Hunin, Danil",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44595
+D W M,24904,"Svirydzenka, Ulyana",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44595
+D W M,24905,"Ogwu, Abel",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,24906,"Szurzynski, Adam",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,24908,"Udeh, Chinemelum",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,24909,"Bature, Keziah",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44595
+D W M,24910,"Ahmed, Khalid",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,25153,"Subair, Mubarak",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44595
+D W M,25155,"Ali, Syed",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44595
+D W M,25156,"Tembo, Gugulethu",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,25158,"Lata, Faya",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,25159,"Worku, Sinedu",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44595
+D W M,25160,"Mugwambi, Kudakwashe",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44595
+D W M,25161,"Masiiwa, Chiedza",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44595
+D W M,25162,"Lemma, Dagmawi",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44595
+D W M,25163,"Sengupta, Arghya",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44595
+D W M,25164,"Esohe, Asubaja",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44595
+D W M,25165,"Ndlovu, Kim",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44595
+D W M,25166,"Okpachui, David",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44595
+D W M,25167,"Mapuranga, Takunda",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,25168,"Matambudzo, Florence",,3:00 PM,11:00 PM,8:00,5:00 PM,5:10 PM,44595
+D W M,25169,"Ikogwe, Arthur",,7:00 PM,3:00 AM,8:00,9:20 PM,9:30 PM,44595
+D W M,25170,"Mpofu, Greatjoy",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,25171,"Fernando, Witharanage",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44595
+D W M,25174,"Ismayilzada, Nijat",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44595
+D W M,25176,"Dadhich, Ridhi",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44595
+D W M,25177,"Samkyi, Michael",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44595
+D W M,25178,"Girma, Mekuria",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44595
+D W M,25180,"Ndikubwimana, Rosine",,9:00 AM,5:00 PM,8:00,11:15 AM,11:25 AM,44595
+D W M,25181,"Deborah, Gakumba",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44595
+D W M,25380,"Kurama, Pius",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,25494,"Fisseha, Helen",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44595
+D W M,25496,"Gete, Mahder",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44595
+D W M,25497,"Mungure, Ivy",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44595
+D W M,25499,"Shukurlu, Javad",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44595
+D W M,25501,"Gerresilassie, Kaleab",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44595
+D W M,25504,"Sinniamourd, Wallace",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44595
+D W M,25811,"Nenharira, Prosper",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,25812,"Willemse, Ravinaldo",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44595
+D W M,25813,"Abebe, Yustina",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44595
+D W M,25814,"Qatipi, Frensi",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,25815,"KEVINE, Sinzihara",,6:00 PM,2:00 AM,8:00,7:30 PM,7:40 PM,44595
+D W M,25816,"Tafirenyika, Desmond",,6:00 PM,2:00 AM,8:00,7:45 PM,7:55 PM,44595
+D W M,25818,"Barth-obi, Claribel",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,25819,"Inyang, Jesam",,5:00 PM,1:00 AM,8:00,6:30 PM,6:40 PM,44595
+D W M,25821,"NKUSI, BENOIT",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,25822,"Umarbakiev, Asomiddin",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44595
+D W M,25823,"Ezennaka, Valentine",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44595
+D W M,25824,"Assfha, Blen",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,25825,"Moyo, Mduduzi",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44595
+D W M,25827,"Foxx, Mickel",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44595
+D W M,25828,"Tamiru, Kidist",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44595
+D W M,25829,"Tshuma, Nobandile",,7:00 PM,3:00 AM,8:00,8:45 PM,8:55 PM,44595
+D W M,25830,"Nyathi, Methembe",,6:00 PM,2:00 AM,8:00,7:45 PM,7:55 PM,44595
+D W M,25831,"Difabachew, Mebea",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44595
+D W M,25832,"Zenabu, Mikias",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44595
+D W M,25833,"Zimondi, Bertha",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44595
+D W M,25834,"Opara, Angela",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44595
+D W M,25835,"Alemayehu, Amanuel",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44595
+D W M,25838,"Tabaruka, Alexandre",,9:00 AM,5:00 PM,8:00,11:00 AM,11:10 AM,44595
+D W M,26630,"Robera, Benti",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,26631,"Salem, Mahmoud",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44595
+D W M,26636,"Mudyiradima, Tanyaradzwa",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44595
+D W M,26638,"Chitaka, Tinashe",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,26639,"Tibebe, Natnael",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44595
+D W M,26644,"Stec, Sandra",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,26645,"Abebe, Fitsum",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44595
+D W M,26646,"Simeneh, Abel",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44595
+D W M,26647,"Baheru, Yeabsira",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44595
+D W M,26648,"Alemayehu, Bezawit",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44595
+D W M,26649,"Eze, Nnamdi",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44595
+D W M,26650,"Krishna, Athul",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44595
+D W M,26651,"Mataranyika, Dorothy",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44595
+D W M,26652,"Sibanda, Princess",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,26655,"Nxele, Andile",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44595
+D W M,26656,"Ogbolu, Ijeoma",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44595
+D W M,26657,"Achareke, Chinedu",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44595
+D W M,26658,"Christabelle, Umulisa",,10:00 AM,6:00 PM,8:00,--:--,--:--,44595
+D W M,26659,"Francky, Igihozo",,10:00 AM,6:00 PM,8:00,--:--,--:--,44595
+D W M,26660,"Ngesonziza, Hafsana",,10:00 AM,6:00 PM,8:00,--:--,--:--,44595
+D W M,26662,"Kanwitonze, Bruce",,10:00 AM,6:00 PM,8:00,--:--,--:--,44595
+D W M,26663,"Ayak, Junior",,10:00 AM,6:00 PM,8:00,--:--,--:--,44595
+D W M,26909,"Aliyeva, Ulduza",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44595
+D W M,27252,"Tesema, Arsema",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44595
+D W M,27253,"Khalifa, ibrahim",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44595
+D W M,27254,"Nanda, Muteguza",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44595
+D W M,27255,"Naffaa, Mohamad",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44595
+D W M,27256,"Molla, Kidist",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44595
+D W M,27257,"Tesfay, Asfaw",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44595
+D W M,27260,"Lachheb, Omar",,4:00 PM,12:00 AM,8:00,5:15 PM,5:25 PM,44595
+D W M,27463,"Semu, Yordanos",,3:00 PM,11:00 PM,8:00,4:20 PM,4:30 PM,44595
+D W M,27464,"Hadgu, Yohannes",,5:00 PM,1:00 AM,8:00,6:30 PM,6:40 PM,44595
+D W M,27465,"Berhane, Yohanna",,6:00 PM,2:00 AM,8:00,7:45 PM,7:55 PM,44595
+D W M,27466,"Mijena, Firaol",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44595
+D W M,27469,"Berhe, Bethelhem",,4:00 PM,12:00 AM,8:00,5:45 PM,5:55 PM,44595
+D W M,27470,"Assad, Dunia",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44595
+D W M,27472,"Hasan, Rakibul",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44595
+D W M,27474,"Moyo, Precious",,3:00 PM,11:00 PM,8:00,5:00 PM,5:10 PM,44595
+D W M,27478,"Spektor, Daniel",,4:30 PM,12:30 AM,8:00,6:15 PM,6:25 PM,44595
+D W M,27641,"Payne, Johnson",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44595
+D W M,27642,"Akinola, Ayodeji",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44595
+D W M,27643,"SALAMI, RAHMAN",,4:00 PM,12:00 AM,8:00,5:30 PM,5:40 PM,44595
+D W M,27644,"Mathew, Sonu",,3:00 PM,11:00 PM,8:00,4:50 PM,5:00 PM,44595
+D W M,27646,"Makhmudova, Sakina",,3:00 PM,11:00 PM,8:00,4:50 PM,5:00 PM,44595
+D W M,27647,"Tadesse, Ephrem",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44595
+D W M,27648,"UZOGARA, GEORGE",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44595
+D W M,27649,"SAKA, JOHNSON",,3:00 PM,11:00 PM,8:00,4:50 PM,5:00 PM,44595
+D W M,27650,"Machaka, Leon",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44595
+D W M,27929,"Uwiman, Claudine",,3:00 PM,11:00 PM,8:00,--:--,--:--,44595
+D W M,13832,"Skupniewska, Alina",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44596
+D W M,14512,"Chewe, Afomia",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44596
+D W M,14524,"McDermott, Thomas",,2:00 AM,10:00 AM,8:00,4:00 AM,4:10 AM,44596
+D W M,14525,"Dushenko, Ilya",,7:00 AM,3:00 PM,8:00,9:20 AM,9:30 AM,44596
+D W M,14531,"Basiisa, Ian",,7:00 AM,3:00 PM,8:00,8:30 AM,8:40 AM,44596
+D W M,14532,"Chukwu, Ihuoma",,6:00 PM,2:00 AM,8:00,7:30 PM,7:40 PM,44596
+D W M,15197,"Wendmeagegnhu, Hana",,--:--,--:--,--:--,--:--,--:--,44596
+D W M,15199,"Khalilov, Zham",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44596
+D W M,15203,"Momberume, Clemence",,3:00 PM,11:00 PM,8:00,5:00 PM,5:10 PM,44596
+D W M,15209,"Kaondera, Paidamoyo",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44596
+D W M,15215,"Orion Belachew, Elias",,2:00 AM,10:00 AM,8:00,3:30 AM,3:40 AM,44596
+D W M,15223,"Balcha, Dagim",,--:--,--:--,--:--,--:--,--:--,44596
+D W M,16004,"Matinde, Miriam",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44596
+D W M,16388,"Chikovo, Belinda",,--:--,--:--,--:--,--:--,--:--,44596
+D W M,16391,"Zaranyika, Chantelle",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44596
+D W M,16393,"Onions, Colin",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44596
+D W M,16394,"Ntini, Dumile",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44596
+D W M,16397,"Gebre, Ezana",,7:00 PM,3:00 AM,8:00,8:45 PM,8:55 PM,44596
+D W M,16404,"Negassa, Kaleb",,7:00 PM,3:00 AM,8:00,9:05 PM,9:15 PM,44596
+D W M,16411,"Nnamani, Nelson",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44596
+D W M,16418,"Odobo, Donald",,7:00 AM,3:00 PM,8:00,9:00 AM,9:10 AM,44596
+D W M,17402,"Ingabire, Solange",,5:00 PM,9:00 PM,4:00,6:30 PM,6:40 PM,44596
+D W M,17957,"Kalonje, Albertina",,--:--,--:--,--:--,--:--,--:--,44596
+D W M,17958,"Dzenge, Alice",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44596
+D W M,17962,"Phiri, Alison",,--:--,--:--,--:--,--:--,--:--,44596
+D W M,17963,"Nyirahuku, Anais",,5:00 PM,1:00 AM,8:00,7:00 PM,7:10 PM,44596
+D W M,17966,"Okoror, Courage",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44596
+D W M,17967,"Uwase, Diwine",,1:00 AM,9:00 AM,8:00,3:00 AM,3:10 AM,44596
+D W M,17968,"Macudo, Djath",,8:00 PM,4:00 AM,8:00,9:45 PM,9:55 PM,44596
+D W M,17969,"Muzire, Enock",,8:00 PM,4:00 AM,8:00,10:00 PM,10:10 PM,44596
+D W M,17973,"Kativu, Karen",,7:00 AM,3:00 PM,8:00,8:45 AM,8:55 AM,44596
+D W M,17974,"Iriza, Kessy",,--:--,--:--,--:--,--:--,--:--,44596
+D W M,17978,"Rajabov, Mukhsinbek",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44596
+D W M,17979,"Ivana, Munezero",,--:--,--:--,--:--,--:--,--:--,44596
+D W M,18002,"Aphiri, Shungidza",,2:00 AM,10:00 AM,8:00,3:45 AM,3:55 AM,44596
+D W M,18004,"Tsegaye, Tigist",,3:00 PM,11:00 PM,8:00,5:05 PM,5:15 PM,44596
+D W M,19935,"Azizillayev, Azizbek",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44596
+D W M,19937,"Bvunza, Benjamin",,6:00 PM,2:00 AM,8:00,7:30 PM,7:40 PM,44596
+D W M,19939,"Fekade, Biruk",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44596
+D W M,19940,"Ncube, Celesta",,9:00 PM,3:00 AM,6:00,11:15 PM,11:25 PM,44596
+D W M,19943,"Shimles Feleke, Christina",,5:00 PM,1:00 AM,8:00,6:30 PM,6:40 PM,44596
+D W M,19944,"Nigusu Kebede, Eyosiyas",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44596
+D W M,19945,"Kaseke, Hazvineyi",,7:00 PM,3:00 AM,8:00,8:45 PM,8:55 PM,44596
+D W M,19947,"Kawadza, Loreen",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44596
+D W M,19948,"Kwenje, Melisa Michelle",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44596
+D W M,19949,"Horonga, Ngonidzashe Sean",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44596
+D W M,19950,"Nunu, Nonceba Yvonne",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44596
+D W M,19951,"Alijonovich Saidov, Parviz",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44596
+D W M,19952,"Udochi Okorie, Peace",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44596
+D W M,19953,"Mardonbek, Rakhmatjonov",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44596
+D W M,19954,"Kaseke, Ronald Elias",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44596
+D W M,19955,"Naci Güler, Samet",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44596
+D W M,19956,"Ngara, Tanaka Peter",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44596
+D W M,19958,"Tadesse, Yanet Michael",,6:00 PM,2:00 AM,8:00,7:45 PM,7:55 PM,44596
+D W M,19959,"Abera, Zekarias",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44596
+D W M,20316,"Kebede, Bamlack",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44596
+D W M,20317,"Teffera, Bantalem",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44596
+D W M,20318,"Amadasun, Ehiosumwen",,4:00 PM,12:00 AM,8:00,--:--,--:--,44596
+D W M,20319,"Kalu, Favour",,7:00 PM,3:00 AM,8:00,8:45 PM,8:55 PM,44596
+D W M,20321,"Asres, Hilina",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44596
+D W M,20322,"Wolde, Hiwot",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44596
+D W M,20324,"Nishonov, Kudratbek",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44596
+D W M,20327,"Dennis, Michael",,6:00 PM,2:00 AM,8:00,7:30 PM,7:40 PM,44596
+D W M,20330,"Murengami, Samantha",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44596
+D W M,20331,"Yeneneh, Samuel",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44596
+D W M,20335,"Mrosso, Vanessa",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44596
+D W M,20337,"Lemma, Yonas",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44596
+D W M,20963,"Maplanka, Bongani",,6:00 PM,2:00 AM,8:00,7:30 PM,7:40 PM,44596
+D W M,20965,"Chimedza, Courtney",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44596
+D W M,20972,"Ma³yszko, Mateusz",,6:00 PM,2:00 AM,8:00,7:30 PM,7:40 PM,44596
+D W M,20973,"Lapko, Michal",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44596
+D W M,20978,"Acheampong, Paul",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44596
+D W M,21142,"Roxshan, Anthony",,3:00 PM,11:00 PM,8:00,5:00 PM,5:10 PM,44596
+D W M,21143,"Numonov, Boymurod",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44596
+D W M,21144,"Tawanda Charuma, Christopher",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44596
+D W M,21146,"Gofur Murodova, Dilnoza",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44596
+D W M,21147,"Manjengwa, Francis",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44596
+D W M,21150,"Zondesa, Ndangariro",,--:--,--:--,--:--,--:--,--:--,44596
+D W M,21151,"Cleto Dube, Panashe",,6:00 PM,2:00 AM,8:00,7:30 PM,7:40 PM,44596
+D W M,21152,"Abosede Ogundele, Rafiat",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44596
+D W M,21153,"Kassa, Ruth",,6:00 PM,2:00 AM,8:00,7:30 PM,7:40 PM,44596
+D W M,21156,"Tonderai Chaitezvi , Tanyaradzwa",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44596
+D W M,21157,"Solomon Dabi, Nathanael",,7:00 PM,3:00 AM,8:00,9:15 PM,9:25 PM,44596
+D W M,21159,"Peiris, Thiththala",,3:00 PM,11:00 PM,8:00,5:00 PM,5:10 PM,44596
+D W M,21160,"Mashababe, Tinashe",,--:--,--:--,--:--,--:--,--:--,44596
+D W M,21162,"Berwa Fiona, Umulisa",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44596
+D W M,21163,"Rwubuzizi Stephane, Shema",,4:00 PM,12:00 AM,8:00,5:45 PM,5:55 PM,44596
+D W M,21164,"Latifa Cindy, Kamikazi",,7:00 PM,3:00 AM,8:00,8:50 PM,9:00 PM,44596
+D W M,21165,"Rangira, Egide",,7:00 PM,3:00 AM,8:00,8:45 PM,8:55 PM,44596
+D W M,21166,"Keza Rwubuzizi, Sarah",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44596
+D W M,21580,"Demilew, Haymanot",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44596
+D W M,21582,"Rompa, Jakub",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44596
+D W M,21584,"Meta, Kaleb",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44596
+D W M,21586,"Woldesemayat, Tsion",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44596
+D W M,21587,"Ikem, Samuel",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44596
+D W M,21588,"Aimable, Mugabo",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44596
+D W M,21589,"Asebot, Hanna",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44596
+D W M,21590,"Oladipo, Dare",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44596
+D W M,21591,"Tapiwanashe, Samuriwo",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44596
+D W M,21592,"Awoyale, Ayorinde",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44596
+D W M,21600,"Kopotsha, Fezile",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44596
+D W M,21603,"Inema, Sandrine",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44596
+D W M,21827,"Willis, Casandra",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44596
+D W M,21829,"Gelaw, Betelhem",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44596
+D W M,21831,"Jemal, Elham",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44596
+D W M,21832,"Saidshoeva, Mastona",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44596
+D W M,21833,"Mushonga, Shamiso",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44596
+D W M,21838,"My Thuy, Uyen",,6:00 PM,2:00 AM,8:00,7:30 PM,7:40 PM,44596
+D W M,21839,"Lyna, Kaliza",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44596
+D W M,21841,"Tadesse, Ruth",,6:00 PM,2:00 AM,8:00,7:30 PM,7:40 PM,44596
+D W M,21842,"Shiferaw, Mieraf",,6:00 PM,2:00 AM,8:00,7:30 PM,7:40 PM,44596
+D W M,21843,"Chaukura, Devaughn",,6:00 PM,2:00 AM,8:00,7:30 PM,7:40 PM,44596
+D W M,21844,"Fassan, Peter",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44596
+D W M,21845,"Gumbi, Tatenda",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44596
+D W M,21847,"Kayabo, Hugues",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44596
+D W M,21848,"Emgoue, Adrienne",,5:00 PM,1:00 AM,8:00,6:30 PM,6:40 PM,44596
+D W M,21849,"Leveille, Chelsea",,7:00 PM,3:00 AM,8:00,8:45 PM,8:55 PM,44596
+D W M,21850,"Irankunda, Maurelle",,--:--,--:--,--:--,--:--,--:--,44596
+D W M,21851,"Igiraneza, Ange",,1:00 AM,9:00 AM,8:00,3:20 AM,3:30 AM,44596
+D W M,21852,"Avemariya, Toussaint",,--:--,--:--,--:--,--:--,--:--,44596
+D W M,21853,"Tonodele, Nathan",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44596
+D W M,21854,"Karangwa, Uwase",,9:00 AM,5:00 PM,8:00,10:30 AM,10:40 AM,44596
+D W M,21856,"Nsengiyumva, Lolita",,9:00 PM,1:00 AM,4:00,10:15 PM,10:25 PM,44596
+D W M,21857,"Ntwali, Daniel",,--:--,--:--,--:--,--:--,--:--,44596
+D W M,22655,"Mtui, Victor",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44596
+D W M,22656,"Chimedza, Rumbidzai",,6:00 PM,2:00 AM,8:00,7:30 PM,7:40 PM,44596
+D W M,22657,"Mhondoro, Faith",,6:00 PM,2:00 AM,8:00,7:30 PM,7:40 PM,44596
+D W M,22659,"Elayidath, Devika",,6:00 PM,2:00 AM,8:00,7:30 PM,7:40 PM,44596
+D W M,22661,"Sen, Ashok",,7:00 PM,3:00 AM,8:00,8:45 PM,8:55 PM,44596
+D W M,22662,"Dube, Lee-Roy",,7:00 PM,3:00 AM,8:00,8:45 PM,8:55 PM,44596
+D W M,22663,"Abdusalomov, Okhunjon",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44596
+D W M,22665,"Rinomhota, Dexter",,7:00 PM,3:00 AM,8:00,8:45 PM,8:55 PM,44596
+D W M,22666,"Masiri, Tatenda",,6:00 PM,2:00 AM,8:00,7:45 PM,7:55 PM,44596
+D W M,22667,"Kodohu, Bridgit",,6:00 PM,2:00 AM,8:00,7:45 PM,7:55 PM,44596
+D W M,22668,"Murodova, Sadokat",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44596
+D W M,22669,"Musana, Dylan",,7:00 PM,3:00 AM,8:00,8:45 PM,8:55 PM,44596
+D W M,22670,"Abayomi, Samuel",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44596
+D W M,22671,"Kunda, Naomi",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44596
+D W M,22672,"Ayalew, Baltazar",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44596
+D W M,22673,"Kaze, Tanguy",,7:00 PM,3:00 AM,8:00,8:45 PM,8:55 PM,44596
+D W M,22674,"Henry, Uwimana",,7:00 PM,3:00 AM,8:00,8:45 PM,8:55 PM,44596
+D W M,22675,"Ngarambe, Christine",,--:--,--:--,--:--,--:--,--:--,44596
+D W M,22677,"Ouchkif, Noussair",,9:00 AM,5:00 PM,8:00,10:30 AM,10:40 AM,44596
+D W M,22678,"Ishimwe, Alice",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44596
+D W M,22680,"Rwigema, Gisa",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44596
+D W M,22957,"Bekele, Yohans",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44596
+D W M,22962,"Kodhwata, Tafaranashe",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44596
+D W M,22963,"Abdulnabi, Abdulrazaak",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44596
+D W M,22964,"Shoniwa, Tafadzwa",,6:00 PM,2:00 AM,8:00,7:45 PM,7:55 PM,44596
+D W M,22971,"Nshimyumuremyi, Alain",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44596
+D W M,22972,"Mohammed, Abimael",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44596
+D W M,23182,"Habonimana, John",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44596
+D W M,23183,"Alain, Hagenimana",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44596
+D W M,23184,"Monestime, Marvens-Neerley",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44596
+D W M,23186,"Elmouden, Achraf",,9:00 AM,5:00 PM,8:00,10:45 AM,10:55 AM,44596
+D W M,23187,"Ourahali, Ayoub",,9:00 AM,5:00 PM,8:00,10:45 AM,10:55 AM,44596
+D W M,23188,"Manyumwa, Kundai",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44596
+D W M,23190,"Chinembiri, Tanaka",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44596
+D W M,23191,"Makarichi, Tinotenda",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44596
+D W M,23193,"Mtatiro, Rosemary",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44596
+D W M,23194,"Tursunov, Muhammadali",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44596
+D W M,23195,"belay, feven",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44596
+D W M,23196,"Mahiyev, Javidan",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44596
+D W M,23198,"Bouzid, Achraf",,3:00 PM,11:00 PM,8:00,--:--,--:--,44596
+D W M,23202,"Munyanduri, Nelson",,6:00 PM,2:00 AM,8:00,7:45 PM,7:55 PM,44596
+D W M,23204,"Abdu, Thaheba",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44596
+D W M,23206,"Masukume, Millicent",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44596
+D W M,23207,"OLUWATOYESE, EGBEJINMI",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44596
+D W M,23208,"Magweva, Russel",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44596
+D W M,23477,"Ndlovu, Thabani",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44596
+D W M,23478,"Sibanda, Thembinkosi",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44596
+D W M,23480,"Chidiebere, Nwarueze",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44596
+D W M,23481,"Cocombile, Alpha",,7:00 PM,3:00 AM,8:00,8:45 PM,8:55 PM,44596
+D W M,23482,"Zeb, Ahmad",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44596
+D W M,23483,"Muswere, Ellen",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44596
+D W M,23487,"Mutsvagiwa, Bernadette",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44596
+D W M,23488,"Marecha, Wendy",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44596
+D W M,23493,"Macauley, Saviour",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44596
+D W M,23495,"Kwizera, Leon",,9:00 AM,5:00 PM,8:00,10:45 AM,10:55 AM,44596
+D W M,23497,"Froeliger, Lucas",,10:00 AM,6:00 PM,8:00,--:--,--:--,44596
+D W M,23744,"Yenesew, Betelhem",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44596
+D W M,23747,"Krasavin, Georgy",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44596
+D W M,23748,"Asrat, Hermela",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44596
+D W M,23749,"Matarutse, Hope",,6:00 PM,2:00 AM,8:00,7:45 PM,7:55 PM,44596
+D W M,23750,"Gwata, Joyce",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44596
+D W M,23753,"Kuchinani, Lynmary",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44596
+D W M,23754,"Zimai, Michelle",,7:00 PM,3:00 AM,8:00,8:45 PM,8:55 PM,44596
+D W M,23760,"Ndihagule, Saida",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44596
+D W M,23761,"Hadi, Sayed",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44596
+D W M,23762,"Mathias, Shanice",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44596
+D W M,23764,"Chinhondo, Venesa",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44596
+D W M,23765,"SINGH, YUVARAJ",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44596
+D W M,24345,"Wudu, Dagmawi",,6:00 PM,2:00 AM,8:00,7:45 PM,7:55 PM,44596
+D W M,24346,"Ndlovu, Cynthia",,6:00 PM,2:00 AM,8:00,7:45 PM,7:55 PM,44596
+D W M,24348,"Rufaro, Paidamoyo",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44596
+D W M,24349,"Blair, Salumu",,7:00 PM,3:00 AM,8:00,8:45 PM,8:55 PM,44596
+D W M,24355,"Mungarevani, Lisa",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44596
+D W M,24357,"Sebhatu, Michael",,6:00 PM,2:00 AM,8:00,7:45 PM,7:55 PM,44596
+D W M,24358,"Endi, Teta",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44596
+D W M,24493,"Chibindi, Mark",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44596
+D W M,24494,"Dube, Nobukhosi",,6:00 PM,2:00 AM,8:00,7:45 PM,7:55 PM,44596
+D W M,24495,"Yakubu, Adedeji",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44596
+D W M,24496,"Selemani, Said",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44596
+D W M,24499,"Sanyika, Tiwayi",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44596
+D W M,24500,"Umoh, Henrietta",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44596
+D W M,24502,"Guliev, Elvin",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44596
+D W M,24503,"Gakii, Bridget",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44596
+D W M,24505,"Kashkaeva, Zhibek",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44596
+D W M,24506,"Eze, Joseph",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44596
+D W M,24507,"Meshesha, Fitsum",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44596
+D W M,24508,"Muleta, Abel",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44596
+D W M,24511,"Moyo, Chipo",,6:00 PM,2:00 AM,8:00,7:45 PM,7:55 PM,44596
+D W M,24512,"Shumba, Gamuchirai",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44596
+D W M,24513,"Aina, Oluwatoroti",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44596
+D W M,24514,"Bhadra, Rohan",,6:00 PM,2:00 AM,8:00,7:45 PM,7:55 PM,44596
+D W M,24515,"Roy, Anuradha",,3:00 PM,11:00 PM,8:00,5:00 PM,5:10 PM,44596
+D W M,24516,"Ogbonnaya, Emmanuel",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44596
+D W M,24517,"Akanbi, Jeremiah",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44596
+D W M,24901,"Aniegbuna, Bruno",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44596
+D W M,24902,"Barczewski, Bogusz",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44596
+D W M,24903,"Hunin, Danil",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44596
+D W M,24904,"Svirydzenka, Ulyana",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44596
+D W M,24905,"Ogwu, Abel",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44596
+D W M,24906,"Szurzynski, Adam",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44596
+D W M,24908,"Udeh, Chinemelum",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44596
+D W M,24909,"Bature, Keziah",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44596
+D W M,24910,"Ahmed, Khalid",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44596
+D W M,25153,"Subair, Mubarak",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44596
+D W M,25155,"Ali, Syed",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44596
+D W M,25156,"Tembo, Gugulethu",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44596
+D W M,25158,"Lata, Faya",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44596
+D W M,25159,"Worku, Sinedu",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44596
+D W M,25160,"Mugwambi, Kudakwashe",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44596
+D W M,25161,"Masiiwa, Chiedza",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44596
+D W M,25162,"Lemma, Dagmawi",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44596
+D W M,25163,"Sengupta, Arghya",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44596
+D W M,25164,"Esohe, Asubaja",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44596
+D W M,25165,"Ndlovu, Kim",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44596
+D W M,25166,"Okpachui, David",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44596
+D W M,25167,"Mapuranga, Takunda",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44596
+D W M,25168,"Matambudzo, Florence",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44596
+D W M,25169,"Ikogwe, Arthur",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44596
+D W M,25170,"Mpofu, Greatjoy",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44596
+D W M,25171,"Fernando, Witharanage",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44596
+D W M,25174,"Ismayilzada, Nijat",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44596
+D W M,25176,"Dadhich, Ridhi",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44596
+D W M,25177,"Samkyi, Michael",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44596
+D W M,25178,"Girma, Mekuria",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44596
+D W M,25180,"Ndikubwimana, Rosine",,9:00 AM,5:00 PM,8:00,11:00 AM,11:10 AM,44596
+D W M,25181,"Deborah, Gakumba",,5:00 PM,1:00 AM,8:00,7:35 PM,7:45 PM,44596
+D W M,25380,"Kurama, Pius",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44596
+D W M,25494,"Fisseha, Helen",,5:00 PM,1:00 AM,8:00,7:00 PM,7:10 PM,44596
+D W M,25496,"Gete, Mahder",,5:00 PM,1:00 AM,8:00,7:00 PM,7:10 PM,44596
+D W M,25497,"Mungure, Ivy",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44596
+D W M,25499,"Shukurlu, Javad",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44596
+D W M,25501,"Gerresilassie, Kaleab",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44596
+D W M,25504,"Sinniamourd, Wallace",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44596
+D W M,25811,"Nenharira, Prosper",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44596
+D W M,25812,"Willemse, Ravinaldo",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44596
+D W M,25813,"Abebe, Yustina",,6:00 PM,2:00 AM,8:00,7:45 PM,7:55 PM,44596
+D W M,25814,"Qatipi, Frensi",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44596
+D W M,25815,"KEVINE, Sinzihara",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44596
+D W M,25816,"Tafirenyika, Desmond",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44596
+D W M,25818,"Barth-obi, Claribel",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44596
+D W M,25819,"Inyang, Jesam",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44596
+D W M,25821,"NKUSI, BENOIT",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44596
+D W M,25822,"Umarbakiev, Asomiddin",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44596
+D W M,25823,"Ezennaka, Valentine",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44596
+D W M,25824,"Assfha, Blen",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44596
+D W M,25825,"Moyo, Mduduzi",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44596
+D W M,25827,"Foxx, Mickel",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44596
+D W M,25828,"Tamiru, Kidist",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44596
+D W M,25829,"Tshuma, Nobandile",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44596
+D W M,25830,"Nyathi, Methembe",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44596
+D W M,25831,"Difabachew, Mebea",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44596
+D W M,25832,"Zenabu, Mikias",,7:00 PM,3:00 AM,8:00,8:45 PM,8:55 PM,44596
+D W M,25833,"Zimondi, Bertha",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44596
+D W M,25834,"Opara, Angela",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44596
+D W M,25835,"Alemayehu, Amanuel",,7:00 PM,3:00 AM,8:00,8:45 PM,8:55 PM,44596
+D W M,25838,"Tabaruka, Alexandre",,9:00 AM,5:00 PM,8:00,11:00 AM,11:10 AM,44596
+D W M,26630,"Robera, Benti",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44596
+D W M,26631,"Salem, Mahmoud",,6:00 PM,2:00 AM,8:00,7:45 PM,7:55 PM,44596
+D W M,26636,"Mudyiradima, Tanyaradzwa",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44596
+D W M,26638,"Chitaka, Tinashe",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44596
+D W M,26639,"Tibebe, Natnael",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44596
+D W M,26644,"Stec, Sandra",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44596
+D W M,26645,"Abebe, Fitsum",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44596
+D W M,26646,"Simeneh, Abel",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44596
+D W M,26647,"Baheru, Yeabsira",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44596
+D W M,26648,"Alemayehu, Bezawit",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44596
+D W M,26649,"Eze, Nnamdi",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44596
+D W M,26650,"Krishna, Athul",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44596
+D W M,26651,"Mataranyika, Dorothy",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44596
+D W M,26652,"Sibanda, Princess",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44596
+D W M,26655,"Nxele, Andile",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44596
+D W M,26656,"Ogbolu, Ijeoma",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44596
+D W M,26657,"Achareke, Chinedu",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44596
+D W M,26658,"Christabelle, Umulisa",,10:00 AM,6:00 PM,8:00,--:--,--:--,44596
+D W M,26659,"Francky, Igihozo",,10:00 AM,6:00 PM,8:00,--:--,--:--,44596
+D W M,26660,"Ngesonziza, Hafsana",,10:00 AM,6:00 PM,8:00,--:--,--:--,44596
+D W M,26662,"Kanwitonze, Bruce",,10:00 AM,6:00 PM,8:00,--:--,--:--,44596
+D W M,26663,"Ayak, Junior",,10:00 AM,6:00 PM,8:00,--:--,--:--,44596
+D W M,26909,"Aliyeva, Ulduza",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44596
+D W M,27252,"Tesema, Arsema",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44596
+D W M,27253,"Khalifa, ibrahim",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44596
+D W M,27254,"Nanda, Muteguza",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44596
+D W M,27255,"Naffaa, Mohamad",,3:00 PM,11:00 PM,8:00,5:00 PM,5:10 PM,44596
+D W M,27256,"Molla, Kidist",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44596
+D W M,27257,"Tesfay, Asfaw",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44596
+D W M,27260,"Lachheb, Omar",,4:00 PM,12:00 AM,8:00,5:35 PM,5:45 PM,44596
+D W M,27463,"Semu, Yordanos",,3:00 PM,11:00 PM,8:00,4:20 PM,4:30 PM,44596
+D W M,27464,"Hadgu, Yohannes",,5:00 PM,1:00 AM,8:00,6:30 PM,6:40 PM,44596
+D W M,27465,"Berhane, Yohanna",,6:00 PM,2:00 AM,8:00,7:45 PM,7:55 PM,44596
+D W M,27466,"Mijena, Firaol",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44596
+D W M,27469,"Berhe, Bethelhem",,4:00 PM,12:00 AM,8:00,5:45 PM,5:55 PM,44596
+D W M,27470,"Assad, Dunia",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44596
+D W M,27472,"Hasan, Rakibul",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44596
+D W M,27474,"Moyo, Precious",,3:00 PM,11:00 PM,8:00,5:00 PM,5:10 PM,44596
+D W M,27478,"Spektor, Daniel",,2:00 PM,10:00 PM,8:00,3:45 PM,3:55 PM,44596
+D W M,27641,"Payne, Johnson",,7:00 PM,3:00 AM,8:00,9:05 PM,9:15 PM,44596
+D W M,27642,"Akinola, Ayodeji",,7:00 PM,3:00 AM,8:00,9:05 PM,9:15 PM,44596
+D W M,27643,"SALAMI, RAHMAN",,4:00 PM,12:00 AM,8:00,5:30 PM,5:40 PM,44596
+D W M,27644,"Mathew, Sonu",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44596
+D W M,27646,"Makhmudova, Sakina",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44596
+D W M,27647,"Tadesse, Ephrem",,7:00 PM,3:00 AM,8:00,9:05 PM,9:15 PM,44596
+D W M,27648,"UZOGARA, GEORGE",,7:00 PM,3:00 AM,8:00,9:05 PM,9:15 PM,44596
+D W M,27649,"SAKA, JOHNSON",,3:00 PM,11:00 PM,8:00,4:30 PM,4:40 PM,44596
+D W M,27650,"Machaka, Leon",,7:00 PM,3:00 AM,8:00,9:05 PM,9:15 PM,44596
+D W M,27929,"Uwiman, Claudine",,3:00 PM,11:00 PM,8:00,--:--,--:--,44596
+D W M,13832,"Skupniewska, Alina",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,14512,"Chewe, Afomia",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,14524,"McDermott, Thomas",,2:00 AM,10:00 AM,8:00,3:30 AM,3:40 AM,44597
+D W M,14525,"Dushenko, Ilya",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,14531,"Basiisa, Ian",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,14532,"Chukwu, Ihuoma",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,15197,"Wendmeagegnhu, Hana",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,15199,"Khalilov, Zham",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,15203,"Momberume, Clemence",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,15209,"Kaondera, Paidamoyo",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,15215,"Orion Belachew, Elias",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,15223,"Balcha, Dagim",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,16004,"Matinde, Miriam",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44597
+D W M,16388,"Chikovo, Belinda",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,16391,"Zaranyika, Chantelle",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,16393,"Onions, Colin",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,16394,"Ntini, Dumile",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,16397,"Gebre, Ezana",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,16404,"Negassa, Kaleb",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44597
+D W M,16411,"Nnamani, Nelson",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,16418,"Odobo, Donald",,7:00 AM,3:00 PM,8:00,8:45 AM,8:55 AM,44597
+D W M,17402,"Ingabire, Solange",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,17957,"Kalonje, Albertina",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,17958,"Dzenge, Alice",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,17962,"Phiri, Alison",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,17963,"Nyirahuku, Anais",,5:00 PM,1:00 AM,8:00,6:45 PM,6:55 PM,44597
+D W M,17966,"Okoror, Courage",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,17967,"Uwase, Diwine",,1:00 AM,9:00 AM,8:00,3:00 AM,3:10 AM,44597
+D W M,17968,"Macudo, Djath",,8:00 PM,4:00 AM,8:00,10:00 PM,10:10 PM,44597
+D W M,17969,"Muzire, Enock",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,17973,"Kativu, Karen",,7:00 AM,3:00 PM,8:00,9:00 AM,9:10 AM,44597
+D W M,17974,"Iriza, Kessy",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,17978,"Rajabov, Mukhsinbek",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,17979,"Ivana, Munezero",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,18002,"Aphiri, Shungidza",,2:00 AM,10:00 AM,8:00,3:45 AM,3:55 AM,44597
+D W M,18004,"Tsegaye, Tigist",,3:00 PM,11:00 PM,8:00,4:45 PM,4:55 PM,44597
+D W M,19935,"Azizillayev, Azizbek",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,19937,"Bvunza, Benjamin",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,19939,"Fekade, Biruk",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44597
+D W M,19940,"Ncube, Celesta",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,19943,"Shimles Feleke, Christina",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,19944,"Nigusu Kebede, Eyosiyas",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,19945,"Kaseke, Hazvineyi",,7:00 PM,3:00 AM,8:00,8:45 PM,8:55 PM,44597
+D W M,19947,"Kawadza, Loreen",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,19948,"Kwenje, Melisa Michelle",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,19949,"Horonga, Ngonidzashe Sean",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,19950,"Nunu, Nonceba Yvonne",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,19951,"Alijonovich Saidov, Parviz",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,19952,"Udochi Okorie, Peace",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,19953,"Mardonbek, Rakhmatjonov",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,19954,"Kaseke, Ronald Elias",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,19955,"Naci Güler, Samet",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,19956,"Ngara, Tanaka Peter",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,19958,"Tadesse, Yanet Michael",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,19959,"Abera, Zekarias",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,20316,"Kebede, Bamlack",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,20317,"Teffera, Bantalem",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,20318,"Amadasun, Ehiosumwen",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,20319,"Kalu, Favour",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44597
+D W M,20321,"Asres, Hilina",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,20322,"Wolde, Hiwot",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,20324,"Nishonov, Kudratbek",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,20327,"Dennis, Michael",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,20330,"Murengami, Samantha",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,20331,"Yeneneh, Samuel",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,20335,"Mrosso, Vanessa",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,20337,"Lemma, Yonas",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,20963,"Maplanka, Bongani",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,20965,"Chimedza, Courtney",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,20972,"Ma³yszko, Mateusz",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,20973,"Lapko, Michal",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,20978,"Acheampong, Paul",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,21142,"Roxshan, Anthony",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,21143,"Numonov, Boymurod",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,21144,"Tawanda Charuma, Christopher",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,21146,"Gofur Murodova, Dilnoza",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,21147,"Manjengwa, Francis",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,21150,"Zondesa, Ndangariro",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,21151,"Cleto Dube, Panashe",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,21152,"Abosede Ogundele, Rafiat",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,21153,"Kassa, Ruth",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,21156,"Tonderai Chaitezvi , Tanyaradzwa",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,21157,"Solomon Dabi, Nathanael",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44597
+D W M,21159,"Peiris, Thiththala",,3:00 PM,11:00 PM,8:00,5:00 PM,5:10 PM,44597
+D W M,21160,"Mashababe, Tinashe",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,21162,"Berwa Fiona, Umulisa",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,21163,"Rwubuzizi Stephane, Shema",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,21164,"Latifa Cindy, Kamikazi",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,21165,"Rangira, Egide",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,21166,"Keza Rwubuzizi, Sarah",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,21580,"Demilew, Haymanot",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,21582,"Rompa, Jakub",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,21584,"Meta, Kaleb",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,21586,"Woldesemayat, Tsion",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,21587,"Ikem, Samuel",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,21588,"Aimable, Mugabo",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,21589,"Asebot, Hanna",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,21590,"Oladipo, Dare",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,21591,"Tapiwanashe, Samuriwo",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,21592,"Awoyale, Ayorinde",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,21600,"Kopotsha, Fezile",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,21603,"Inema, Sandrine",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,21827,"Willis, Casandra",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,21829,"Gelaw, Betelhem",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,21831,"Jemal, Elham",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,21832,"Saidshoeva, Mastona",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,21833,"Mushonga, Shamiso",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,21838,"My Thuy, Uyen",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,21839,"Lyna, Kaliza",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,21841,"Tadesse, Ruth",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,21842,"Shiferaw, Mieraf",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,21843,"Chaukura, Devaughn",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,21844,"Fassan, Peter",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,21845,"Gumbi, Tatenda",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,21847,"Kayabo, Hugues",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,21848,"Emgoue, Adrienne",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,21849,"Leveille, Chelsea",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,21850,"Irankunda, Maurelle",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,21851,"Igiraneza, Ange",,1:00 AM,9:00 AM,8:00,3:20 AM,3:30 AM,44597
+D W M,21852,"Avemariya, Toussaint",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,21853,"Tonodele, Nathan",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,21854,"Karangwa, Uwase",,9:00 AM,5:00 PM,8:00,10:45 AM,10:55 AM,44597
+D W M,21856,"Nsengiyumva, Lolita",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,21857,"Ntwali, Daniel",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,22655,"Mtui, Victor",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,22656,"Chimedza, Rumbidzai",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,22657,"Mhondoro, Faith",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,22659,"Elayidath, Devika",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,22661,"Sen, Ashok",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,22662,"Dube, Lee-Roy",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,22663,"Abdusalomov, Okhunjon",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,22665,"Rinomhota, Dexter",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,22666,"Masiri, Tatenda",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,22667,"Kodohu, Bridgit",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,22668,"Murodova, Sadokat",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,22669,"Musana, Dylan",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,22670,"Abayomi, Samuel",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,22671,"Kunda, Naomi",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,22672,"Ayalew, Baltazar",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,22673,"Kaze, Tanguy",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,22674,"Henry, Uwimana",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,22675,"Ngarambe, Christine",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,22677,"Ouchkif, Noussair",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,22678,"Ishimwe, Alice",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,22680,"Rwigema, Gisa",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,22957,"Bekele, Yohans",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,22962,"Kodhwata, Tafaranashe",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,22963,"Abdulnabi, Abdulrazaak",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,22964,"Shoniwa, Tafadzwa",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,22971,"Nshimyumuremyi, Alain",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,22972,"Mohammed, Abimael",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,23182,"Habonimana, John",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,23183,"Alain, Hagenimana",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,23184,"Monestime, Marvens-Neerley",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,23186,"Elmouden, Achraf",,9:00 AM,5:00 PM,8:00,11:00 AM,11:10 AM,44597
+D W M,23187,"Ourahali, Ayoub",,9:00 AM,5:00 PM,8:00,11:20 AM,11:30 AM,44597
+D W M,23188,"Manyumwa, Kundai",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,23190,"Chinembiri, Tanaka",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,23191,"Makarichi, Tinotenda",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,23193,"Mtatiro, Rosemary",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,23194,"Tursunov, Muhammadali",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,23195,"belay, feven",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,23196,"Mahiyev, Javidan",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,23198,"Bouzid, Achraf",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,23202,"Munyanduri, Nelson",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,23204,"Abdu, Thaheba",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,23206,"Masukume, Millicent",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,23207,"OLUWATOYESE, EGBEJINMI",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,23208,"Magweva, Russel",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,23477,"Ndlovu, Thabani",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,23478,"Sibanda, Thembinkosi",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,23480,"Chidiebere, Nwarueze",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,23481,"Cocombile, Alpha",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,23482,"Zeb, Ahmad",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,23483,"Muswere, Ellen",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,23487,"Mutsvagiwa, Bernadette",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,23488,"Marecha, Wendy",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,23493,"Macauley, Saviour",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,23495,"Kwizera, Leon",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,23497,"Froeliger, Lucas",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,23744,"Yenesew, Betelhem",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,23747,"Krasavin, Georgy",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,23748,"Asrat, Hermela",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,23749,"Matarutse, Hope",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,23750,"Gwata, Joyce",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,23753,"Kuchinani, Lynmary",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,23754,"Zimai, Michelle",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,23760,"Ndihagule, Saida",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,23761,"Hadi, Sayed",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,23762,"Mathias, Shanice",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,23764,"Chinhondo, Venesa",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,23765,"SINGH, YUVARAJ",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,24345,"Wudu, Dagmawi",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,24346,"Ndlovu, Cynthia",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,24348,"Rufaro, Paidamoyo",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,24349,"Blair, Salumu",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,24355,"Mungarevani, Lisa",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,24357,"Sebhatu, Michael",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,24358,"Endi, Teta",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,24493,"Chibindi, Mark",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,24494,"Dube, Nobukhosi",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,24495,"Yakubu, Adedeji",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,24496,"Selemani, Said",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,24499,"Sanyika, Tiwayi",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,24500,"Umoh, Henrietta",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,24502,"Guliev, Elvin",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,24503,"Gakii, Bridget",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,24505,"Kashkaeva, Zhibek",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,24506,"Eze, Joseph",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,24507,"Meshesha, Fitsum",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,24508,"Muleta, Abel",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,24511,"Moyo, Chipo",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,24512,"Shumba, Gamuchirai",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,24513,"Aina, Oluwatoroti",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,24514,"Bhadra, Rohan",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,24515,"Roy, Anuradha",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,24516,"Ogbonnaya, Emmanuel",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,24517,"Akanbi, Jeremiah",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,24901,"Aniegbuna, Bruno",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,24902,"Barczewski, Bogusz",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,24903,"Hunin, Danil",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,24904,"Svirydzenka, Ulyana",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,24905,"Ogwu, Abel",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,24906,"Szurzynski, Adam",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,24908,"Udeh, Chinemelum",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,24909,"Bature, Keziah",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,24910,"Ahmed, Khalid",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25153,"Subair, Mubarak",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25155,"Ali, Syed",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25156,"Tembo, Gugulethu",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25158,"Lata, Faya",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25159,"Worku, Sinedu",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25160,"Mugwambi, Kudakwashe",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25161,"Masiiwa, Chiedza",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25162,"Lemma, Dagmawi",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25163,"Sengupta, Arghya",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25164,"Esohe, Asubaja",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25165,"Ndlovu, Kim",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25166,"Okpachui, David",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25167,"Mapuranga, Takunda",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25168,"Matambudzo, Florence",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25169,"Ikogwe, Arthur",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25170,"Mpofu, Greatjoy",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25171,"Fernando, Witharanage",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25174,"Ismayilzada, Nijat",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25176,"Dadhich, Ridhi",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25177,"Samkyi, Michael",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25178,"Girma, Mekuria",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25180,"Ndikubwimana, Rosine",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25181,"Deborah, Gakumba",,5:00 PM,1:00 AM,8:00,7:00 PM,7:10 PM,44597
+D W M,25380,"Kurama, Pius",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25494,"Fisseha, Helen",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25496,"Gete, Mahder",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25497,"Mungure, Ivy",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25499,"Shukurlu, Javad",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25501,"Gerresilassie, Kaleab",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25504,"Sinniamourd, Wallace",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25811,"Nenharira, Prosper",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25812,"Willemse, Ravinaldo",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25813,"Abebe, Yustina",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25814,"Qatipi, Frensi",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25815,"KEVINE, Sinzihara",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25816,"Tafirenyika, Desmond",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25818,"Barth-obi, Claribel",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25819,"Inyang, Jesam",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25821,"NKUSI, BENOIT",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25822,"Umarbakiev, Asomiddin",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25823,"Ezennaka, Valentine",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25824,"Assfha, Blen",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25825,"Moyo, Mduduzi",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25827,"Foxx, Mickel",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25828,"Tamiru, Kidist",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25829,"Tshuma, Nobandile",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25830,"Nyathi, Methembe",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25831,"Difabachew, Mebea",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25832,"Zenabu, Mikias",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25833,"Zimondi, Bertha",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25834,"Opara, Angela",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25835,"Alemayehu, Amanuel",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,25838,"Tabaruka, Alexandre",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,26630,"Robera, Benti",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,26631,"Salem, Mahmoud",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,26636,"Mudyiradima, Tanyaradzwa",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,26638,"Chitaka, Tinashe",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,26639,"Tibebe, Natnael",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,26644,"Stec, Sandra",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,26645,"Abebe, Fitsum",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,26646,"Simeneh, Abel",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,26647,"Baheru, Yeabsira",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,26648,"Alemayehu, Bezawit",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,26649,"Eze, Nnamdi",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,26650,"Krishna, Athul",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,26651,"Mataranyika, Dorothy",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,26652,"Sibanda, Princess",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,26655,"Nxele, Andile",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,26656,"Ogbolu, Ijeoma",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,26657,"Achareke, Chinedu",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,26658,"Christabelle, Umulisa",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,26659,"Francky, Igihozo",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,26660,"Ngesonziza, Hafsana",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,26662,"Kanwitonze, Bruce",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,26663,"Ayak, Junior",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,26909,"Aliyeva, Ulduza",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,27252,"Tesema, Arsema",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,27253,"Khalifa, ibrahim",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,27254,"Nanda, Muteguza",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,27255,"Naffaa, Mohamad",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,27256,"Molla, Kidist",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,27257,"Tesfay, Asfaw",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,27260,"Lachheb, Omar",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,27463,"Semu, Yordanos",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,27464,"Hadgu, Yohannes",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,27465,"Berhane, Yohanna",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,27466,"Mijena, Firaol",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,27469,"Berhe, Bethelhem",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,27470,"Assad, Dunia",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,27472,"Hasan, Rakibul",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,27474,"Moyo, Precious",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,27478,"Spektor, Daniel",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,27641,"Payne, Johnson",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,27642,"Akinola, Ayodeji",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,27643,"SALAMI, RAHMAN",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,27644,"Mathew, Sonu",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,27646,"Makhmudova, Sakina",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,27647,"Tadesse, Ephrem",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,27648,"UZOGARA, GEORGE",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,27649,"SAKA, JOHNSON",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,27650,"Machaka, Leon",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,27929,"Uwiman, Claudine",,--:--,--:--,--:--,--:--,--:--,44597
+D W M,13832,"Skupniewska, Alina",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,14512,"Chewe, Afomia",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,14524,"McDermott, Thomas",,2:00 AM,10:00 AM,8:00,4:00 AM,4:10 AM,44598
+D W M,14525,"Dushenko, Ilya",,7:00 AM,3:00 PM,8:00,9:05 AM,9:15 AM,44598
+D W M,14531,"Basiisa, Ian",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,14532,"Chukwu, Ihuoma",,6:00 PM,2:00 AM,8:00,7:45 PM,7:55 PM,44598
+D W M,15197,"Wendmeagegnhu, Hana",,2:00 AM,10:00 AM,8:00,3:15 AM,3:25 AM,44598
+D W M,15199,"Khalilov, Zham",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,15203,"Momberume, Clemence",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,15209,"Kaondera, Paidamoyo",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,15215,"Orion Belachew, Elias",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,15223,"Balcha, Dagim",,2:00 AM,10:00 AM,8:00,3:30 AM,3:40 AM,44598
+D W M,16004,"Matinde, Miriam",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,16388,"Chikovo, Belinda",,6:00 PM,2:00 AM,8:00,8:00 PM,8:10 PM,44598
+D W M,16391,"Zaranyika, Chantelle",,4:00 PM,12:00 AM,8:00,6:05 PM,6:15 PM,44598
+D W M,16393,"Onions, Colin",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,16394,"Ntini, Dumile",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,16397,"Gebre, Ezana",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,16404,"Negassa, Kaleb",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,16411,"Nnamani, Nelson",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,16418,"Odobo, Donald",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,17402,"Ingabire, Solange",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,17957,"Kalonje, Albertina",,7:00 AM,3:00 PM,8:00,8:30 AM,8:40 AM,44598
+D W M,17958,"Dzenge, Alice",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,17962,"Phiri, Alison",,8:00 PM,4:00 AM,8:00,9:30 PM,9:40 PM,44598
+D W M,17963,"Nyirahuku, Anais",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,17966,"Okoror, Courage",,4:00 PM,12:00 AM,8:00,6:00 PM,6:10 PM,44598
+D W M,17967,"Uwase, Diwine",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,17968,"Macudo, Djath",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,17969,"Muzire, Enock",,8:00 PM,4:00 AM,8:00,9:45 PM,9:55 PM,44598
+D W M,17973,"Kativu, Karen",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,17974,"Iriza, Kessy",,5:00 PM,1:00 AM,8:00,6:50 PM,7:00 PM,44598
+D W M,17978,"Rajabov, Mukhsinbek",,3:00 PM,11:00 PM,8:00,4:50 PM,5:00 PM,44598
+D W M,17979,"Ivana, Munezero",,5:00 PM,1:00 AM,8:00,7:00 PM,7:10 PM,44598
+D W M,18002,"Aphiri, Shungidza",,2:00 AM,10:00 AM,8:00,3:50 AM,4:00 AM,44598
+D W M,18004,"Tsegaye, Tigist",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,19935,"Azizillayev, Azizbek",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,19937,"Bvunza, Benjamin",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,19939,"Fekade, Biruk",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,19940,"Ncube, Celesta",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,19943,"Shimles Feleke, Christina",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,19944,"Nigusu Kebede, Eyosiyas",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,19945,"Kaseke, Hazvineyi",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,19947,"Kawadza, Loreen",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,19948,"Kwenje, Melisa Michelle",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,19949,"Horonga, Ngonidzashe Sean",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,19950,"Nunu, Nonceba Yvonne",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,19951,"Alijonovich Saidov, Parviz",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,19952,"Udochi Okorie, Peace",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,19953,"Mardonbek, Rakhmatjonov",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,19954,"Kaseke, Ronald Elias",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,19955,"Naci Güler, Samet",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,19956,"Ngara, Tanaka Peter",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,19958,"Tadesse, Yanet Michael",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,19959,"Abera, Zekarias",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,20316,"Kebede, Bamlack",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,20317,"Teffera, Bantalem",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,20318,"Amadasun, Ehiosumwen",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,20319,"Kalu, Favour",,7:00 PM,3:00 AM,8:00,8:45 PM,8:55 PM,44598
+D W M,20321,"Asres, Hilina",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,20322,"Wolde, Hiwot",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,20324,"Nishonov, Kudratbek",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,20327,"Dennis, Michael",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,20330,"Murengami, Samantha",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,20331,"Yeneneh, Samuel",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,20335,"Mrosso, Vanessa",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,20337,"Lemma, Yonas",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,20963,"Maplanka, Bongani",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,20965,"Chimedza, Courtney",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,20972,"Ma³yszko, Mateusz",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,20973,"Lapko, Michal",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,20978,"Acheampong, Paul",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,21142,"Roxshan, Anthony",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,21143,"Numonov, Boymurod",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,21144,"Tawanda Charuma, Christopher",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,21146,"Gofur Murodova, Dilnoza",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,21147,"Manjengwa, Francis",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,21150,"Zondesa, Ndangariro",,7:00 PM,3:00 AM,8:00,8:30 PM,8:40 PM,44598
+D W M,21151,"Cleto Dube, Panashe",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,21152,"Abosede Ogundele, Rafiat",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,21153,"Kassa, Ruth",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,21156,"Tonderai Chaitezvi , Tanyaradzwa",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,21157,"Solomon Dabi, Nathanael",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,21159,"Peiris, Thiththala",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,21160,"Mashababe, Tinashe",,7:00 PM,3:00 AM,8:00,9:00 PM,9:10 PM,44598
+D W M,21162,"Berwa Fiona, Umulisa",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,21163,"Rwubuzizi Stephane, Shema",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,21164,"Latifa Cindy, Kamikazi",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,21165,"Rangira, Egide",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,21166,"Keza Rwubuzizi, Sarah",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,21580,"Demilew, Haymanot",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,21582,"Rompa, Jakub",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,21584,"Meta, Kaleb",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,21586,"Woldesemayat, Tsion",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,21587,"Ikem, Samuel",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,21588,"Aimable, Mugabo",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,21589,"Asebot, Hanna",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,21590,"Oladipo, Dare",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,21591,"Tapiwanashe, Samuriwo",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,21592,"Awoyale, Ayorinde",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,21600,"Kopotsha, Fezile",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,21603,"Inema, Sandrine",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,21827,"Willis, Casandra",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,21829,"Gelaw, Betelhem",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,21831,"Jemal, Elham",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,21832,"Saidshoeva, Mastona",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,21833,"Mushonga, Shamiso",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,21838,"My Thuy, Uyen",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,21839,"Lyna, Kaliza",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,21841,"Tadesse, Ruth",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,21842,"Shiferaw, Mieraf",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,21843,"Chaukura, Devaughn",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,21844,"Fassan, Peter",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,21845,"Gumbi, Tatenda",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,21847,"Kayabo, Hugues",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,21848,"Emgoue, Adrienne",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,21849,"Leveille, Chelsea",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,21850,"Irankunda, Maurelle",,1:00 AM,9:00 AM,8:00,2:45 AM,2:55 AM,44598
+D W M,21851,"Igiraneza, Ange",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,21852,"Avemariya, Toussaint",,1:00 AM,9:00 AM,8:00,3:00 AM,3:10 AM,44598
+D W M,21853,"Tonodele, Nathan",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,21854,"Karangwa, Uwase",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,21856,"Nsengiyumva, Lolita",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,21857,"Ntwali, Daniel",,9:00 AM,5:00 PM,8:00,11:20 AM,11:30 AM,44598
+D W M,22655,"Mtui, Victor",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,22656,"Chimedza, Rumbidzai",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,22657,"Mhondoro, Faith",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,22659,"Elayidath, Devika",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,22661,"Sen, Ashok",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,22662,"Dube, Lee-Roy",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,22663,"Abdusalomov, Okhunjon",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,22665,"Rinomhota, Dexter",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,22666,"Masiri, Tatenda",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,22667,"Kodohu, Bridgit",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,22668,"Murodova, Sadokat",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,22669,"Musana, Dylan",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,22670,"Abayomi, Samuel",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,22671,"Kunda, Naomi",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,22672,"Ayalew, Baltazar",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,22673,"Kaze, Tanguy",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,22674,"Henry, Uwimana",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,22675,"Ngarambe, Christine",,9:00 AM,5:00 PM,8:00,11:00 AM,11:10 AM,44598
+D W M,22677,"Ouchkif, Noussair",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,22678,"Ishimwe, Alice",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,22680,"Rwigema, Gisa",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,22957,"Bekele, Yohans",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,22962,"Kodhwata, Tafaranashe",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,22963,"Abdulnabi, Abdulrazaak",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,22964,"Shoniwa, Tafadzwa",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,22971,"Nshimyumuremyi, Alain",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,22972,"Mohammed, Abimael",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,23182,"Habonimana, John",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,23183,"Alain, Hagenimana",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,23184,"Monestime, Marvens-Neerley",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,23186,"Elmouden, Achraf",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,23187,"Ourahali, Ayoub",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,23188,"Manyumwa, Kundai",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,23190,"Chinembiri, Tanaka",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,23191,"Makarichi, Tinotenda",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,23193,"Mtatiro, Rosemary",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,23194,"Tursunov, Muhammadali",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,23195,"belay, feven",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,23196,"Mahiyev, Javidan",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,23198,"Bouzid, Achraf",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,23202,"Munyanduri, Nelson",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,23204,"Abdu, Thaheba",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,23206,"Masukume, Millicent",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,23207,"OLUWATOYESE, EGBEJINMI",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,23208,"Magweva, Russel",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,23477,"Ndlovu, Thabani",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,23478,"Sibanda, Thembinkosi",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,23480,"Chidiebere, Nwarueze",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,23481,"Cocombile, Alpha",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,23482,"Zeb, Ahmad",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,23483,"Muswere, Ellen",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,23487,"Mutsvagiwa, Bernadette",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,23488,"Marecha, Wendy",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,23493,"Macauley, Saviour",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,23495,"Kwizera, Leon",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,23497,"Froeliger, Lucas",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,23744,"Yenesew, Betelhem",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,23747,"Krasavin, Georgy",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,23748,"Asrat, Hermela",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,23749,"Matarutse, Hope",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,23750,"Gwata, Joyce",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,23753,"Kuchinani, Lynmary",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,23754,"Zimai, Michelle",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,23760,"Ndihagule, Saida",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,23761,"Hadi, Sayed",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,23762,"Mathias, Shanice",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,23764,"Chinhondo, Venesa",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,23765,"SINGH, YUVARAJ",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,24345,"Wudu, Dagmawi",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,24346,"Ndlovu, Cynthia",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,24348,"Rufaro, Paidamoyo",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,24349,"Blair, Salumu",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,24355,"Mungarevani, Lisa",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,24357,"Sebhatu, Michael",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,24358,"Endi, Teta",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,24493,"Chibindi, Mark",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,24494,"Dube, Nobukhosi",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,24495,"Yakubu, Adedeji",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,24496,"Selemani, Said",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,24499,"Sanyika, Tiwayi",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,24500,"Umoh, Henrietta",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,24502,"Guliev, Elvin",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,24503,"Gakii, Bridget",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,24505,"Kashkaeva, Zhibek",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,24506,"Eze, Joseph",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,24507,"Meshesha, Fitsum",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,24508,"Muleta, Abel",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,24511,"Moyo, Chipo",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,24512,"Shumba, Gamuchirai",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,24513,"Aina, Oluwatoroti",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,24514,"Bhadra, Rohan",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,24515,"Roy, Anuradha",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,24516,"Ogbonnaya, Emmanuel",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,24517,"Akanbi, Jeremiah",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,24901,"Aniegbuna, Bruno",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,24902,"Barczewski, Bogusz",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,24903,"Hunin, Danil",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,24904,"Svirydzenka, Ulyana",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,24905,"Ogwu, Abel",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,24906,"Szurzynski, Adam",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,24908,"Udeh, Chinemelum",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,24909,"Bature, Keziah",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,24910,"Ahmed, Khalid",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25153,"Subair, Mubarak",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25155,"Ali, Syed",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25156,"Tembo, Gugulethu",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25158,"Lata, Faya",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25159,"Worku, Sinedu",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25160,"Mugwambi, Kudakwashe",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25161,"Masiiwa, Chiedza",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25162,"Lemma, Dagmawi",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25163,"Sengupta, Arghya",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25164,"Esohe, Asubaja",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25165,"Ndlovu, Kim",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25166,"Okpachui, David",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25167,"Mapuranga, Takunda",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25168,"Matambudzo, Florence",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25169,"Ikogwe, Arthur",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25170,"Mpofu, Greatjoy",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25171,"Fernando, Witharanage",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25174,"Ismayilzada, Nijat",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25176,"Dadhich, Ridhi",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25177,"Samkyi, Michael",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25178,"Girma, Mekuria",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25180,"Ndikubwimana, Rosine",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25181,"Deborah, Gakumba",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25380,"Kurama, Pius",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25494,"Fisseha, Helen",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25496,"Gete, Mahder",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25497,"Mungure, Ivy",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25499,"Shukurlu, Javad",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25501,"Gerresilassie, Kaleab",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25504,"Sinniamourd, Wallace",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25811,"Nenharira, Prosper",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25812,"Willemse, Ravinaldo",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25813,"Abebe, Yustina",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25814,"Qatipi, Frensi",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25815,"KEVINE, Sinzihara",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25816,"Tafirenyika, Desmond",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25818,"Barth-obi, Claribel",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25819,"Inyang, Jesam",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25821,"NKUSI, BENOIT",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25822,"Umarbakiev, Asomiddin",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25823,"Ezennaka, Valentine",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25824,"Assfha, Blen",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25825,"Moyo, Mduduzi",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25827,"Foxx, Mickel",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25828,"Tamiru, Kidist",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25829,"Tshuma, Nobandile",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25830,"Nyathi, Methembe",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25831,"Difabachew, Mebea",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25832,"Zenabu, Mikias",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25833,"Zimondi, Bertha",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25834,"Opara, Angela",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25835,"Alemayehu, Amanuel",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,25838,"Tabaruka, Alexandre",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,26630,"Robera, Benti",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,26631,"Salem, Mahmoud",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,26636,"Mudyiradima, Tanyaradzwa",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,26638,"Chitaka, Tinashe",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,26639,"Tibebe, Natnael",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,26644,"Stec, Sandra",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,26645,"Abebe, Fitsum",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,26646,"Simeneh, Abel",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,26647,"Baheru, Yeabsira",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,26648,"Alemayehu, Bezawit",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,26649,"Eze, Nnamdi",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,26650,"Krishna, Athul",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,26651,"Mataranyika, Dorothy",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,26652,"Sibanda, Princess",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,26655,"Nxele, Andile",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,26656,"Ogbolu, Ijeoma",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,26657,"Achareke, Chinedu",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,26658,"Christabelle, Umulisa",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,26659,"Francky, Igihozo",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,26660,"Ngesonziza, Hafsana",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,26662,"Kanwitonze, Bruce",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,26663,"Ayak, Junior",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,26909,"Aliyeva, Ulduza",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,27252,"Tesema, Arsema",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,27253,"Khalifa, ibrahim",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,27254,"Nanda, Muteguza",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,27255,"Naffaa, Mohamad",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,27256,"Molla, Kidist",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,27257,"Tesfay, Asfaw",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,27260,"Lachheb, Omar",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,27463,"Semu, Yordanos",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,27464,"Hadgu, Yohannes",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,27465,"Berhane, Yohanna",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,27466,"Mijena, Firaol",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,27469,"Berhe, Bethelhem",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,27470,"Assad, Dunia",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,27472,"Hasan, Rakibul",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,27474,"Moyo, Precious",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,27478,"Spektor, Daniel",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,27641,"Payne, Johnson",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,27642,"Akinola, Ayodeji",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,27643,"SALAMI, RAHMAN",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,27644,"Mathew, Sonu",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,27646,"Makhmudova, Sakina",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,27647,"Tadesse, Ephrem",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,27648,"UZOGARA, GEORGE",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,27649,"SAKA, JOHNSON",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,27650,"Machaka, Leon",,--:--,--:--,--:--,--:--,--:--,44598
+D W M,27929,"Uwiman, Claudine",,--:--,--:--,--:--,--:--,--:--,44598
